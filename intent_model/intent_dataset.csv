@@ -1,0 +1,1792 @@
+"text,intent"
+"hello,greeting"
+"hi,greeting"
+"hey,greeting"
+"hello there,greeting"
+"hi there,greeting"
+"hey there,greeting"
+"good morning,greeting"
+"good afternoon,greeting"
+"good evening,greeting"
+"yo,greeting"
+"what's up,greeting"
+"whats up,greeting"
+"how are you,greeting"
+"how are you doing,greeting"
+"how's it going,greeting"
+"how are u,greeting"
+"hii,greeting"
+"helloo,greeting"
+"heyy,greeting"
+"yo bro,greeting"
+"yo dude,greeting"
+"hey bro,greeting"
+"hi bro,greeting"
+"hello bro,greeting"
+"hey buddy,greeting"
+"hi buddy,greeting"
+"hello buddy,greeting"
+"hey friend,greeting"
+"hi friend,greeting"
+"hello friend,greeting"
+"hey chatbot,greeting"
+"hi chatbot,greeting"
+"hello chatbot,greeting"
+"hey bot,greeting"
+"hi bot,greeting"
+"hello bot,greeting"
+"hey ai,greeting"
+"hi ai,greeting"
+"hello ai,greeting"
+"hey assistant,greeting"
+"hi assistant,greeting"
+"hello assistant,greeting"
+"greetings,greeting"
+"warm greetings,greeting"
+"good day,greeting"
+"nice to meet you,greeting"
+"pleased to meet you,greeting"
+"great to see you,greeting"
+"good to see you,greeting"
+"long time no see,greeting"
+"hey again,greeting"
+"hi again,greeting"
+"hello again,greeting"
+"hey once more,greeting"
+"hi once more,greeting"
+"hello once more,greeting"
+"yo again,greeting"
+"what's going on,greeting"
+"whats going on,greeting"
+"how you doing today,greeting"
+"how r u today,greeting"
+"how are things,greeting"
+"how is everything,greeting"
+"how's everything,greeting"
+"hey what's up,greeting"
+"hi what's up,greeting"
+"hello what's up,greeting"
+"yo what's up,greeting"
+"hey what's going on,greeting"
+"hi what's going on,greeting"
+"hello what's going on,greeting"
+"hey how is it going,greeting"
+"hi how is it going,greeting"
+"hello how is it going,greeting"
+"hey there buddy,greeting"
+"hi there buddy,greeting"
+"hello there buddy,greeting"
+"hey dude,greeting"
+"hi dude,greeting"
+"hello dude,greeting"
+"yo dude what's up,greeting"
+"yo bro what's up,greeting"
+"hey bro what's up,greeting"
+"hi bro what's up,greeting"
+"hello bro what's up,greeting"
+"hey mate,greeting"
+"hi mate,greeting"
+"hello mate,greeting"
+"good morning bro,greeting"
+"good morning buddy,greeting"
+"good morning friend,greeting"
+"good morning chatbot,greeting"
+"good afternoon bro,greeting"
+"good afternoon buddy,greeting"
+"good afternoon friend,greeting"
+"good evening bro,greeting"
+"good evening buddy,greeting"
+"good evening friend,greeting"
+"hi there how are you,greeting"
+"hello there how are you,greeting"
+"hey there how are you,greeting"
+"yo how are you,greeting"
+"yo how r u,greeting"
+"hey how r u doing,greeting"
+"hi how r u doing,greeting"
+"hello how r u doing,greeting"
+"hey how are things going,greeting"
+"hi how are things going,greeting"
+"hello how are things going,greeting"
+"hey nice to see you,greeting"
+"hi nice to see you,greeting"
+"hello nice to see you,greeting"
+"hey long time no see,greeting"
+"hi long time no see,greeting"
+"hello long time no see,greeting"
+"hey good to see you again,greeting"
+"hi good to see you again,greeting"
+"hello good to see you again,greeting"
+"yo good to see you,greeting"
+"yo nice to meet you,greeting"
+"yo hello,greeting"
+"yo hi,greeting"
+"sup,greeting"
+"sup bro,greeting"
+"sup dude,greeting"
+"sup buddy,greeting"
+"sup man,greeting"
+"hey man,greeting"
+"hi man,greeting"
+"hello man,greeting"
+"hey pal,greeting"
+"hi pal,greeting"
+"hello pal,greeting"
+"hey there man,greeting"
+"hi there man,greeting"
+"hello there man,greeting"
+"hey there friend,greeting"
+"hi there friend,greeting"
+"hello there friend,greeting"
+"hey there bro,greeting"
+"hi there bro,greeting"
+"hello there bro,greeting"
+"hey there dude,greeting"
+"hi there dude,greeting"
+"hello there dude,greeting"
+"hey hey,greeting"
+"hi hi,greeting"
+"hello hello,greeting"
+"heyyyy,greeting"
+"hiiii,greeting"
+"helloooo,greeting"
+"yooooo,greeting"
+"heyyy there,greeting"
+"hiiii there,greeting"
+"helloooo there,greeting"
+"yo hey,greeting"
+"yo hi,greeting"
+"yo hello,greeting"
+"hey wassup,greeting"
+"hi wassup,greeting"
+"hello wassup,greeting"
+"wassup,greeting"
+"wassup bro,greeting"
+"wassup dude,greeting"
+"wassup buddy,greeting"
+"hey howdy,greeting"
+"hi howdy,greeting"
+"hello howdy,greeting"
+"howdy,greeting"
+"howdy partner,greeting"
+"greetings friend,greeting"
+"greetings buddy,greeting"
+"greetings bro,greeting"
+"greetings dude,greeting"
+"hey greetings,greeting"
+"hi greetings,greeting"
+"hello greetings,greeting"
+"hey good day,greeting"
+"hi good day,greeting"
+"hello good day,greeting"
+"good day mate,greeting"
+"good day buddy,greeting"
+"good day friend,greeting"
+"hey good morning how are you,greeting"
+"hi good morning how are you,greeting"
+"hello good morning how are you,greeting"
+"hey good evening how are you,greeting"
+"hi good evening how are you,greeting"
+"hello good evening how are you,greeting"
+"hey good afternoon how are you,greeting"
+"hi good afternoon how are you,greeting"
+"hello good afternoon how are you,greeting"
+"hey what's new,greeting"
+"hi what's new,greeting"
+"hello what's new,greeting"
+"what's new,greeting"
+"whats new,greeting"
+"hey what's happening,greeting"
+"hi what's happening,greeting"
+"hello what's happening,greeting"
+"what's happening,greeting"
+"whats happening,greeting"
+"hey how is life,greeting"
+"hi how is life,greeting"
+"hello how is life,greeting"
+"how is life,greeting"
+"hey how are things today,greeting"
+"hi how are things today,greeting"
+"hello how are things today,greeting"
+"hey hope you are good,greeting"
+"hi hope you are good,greeting"
+"hello hope you are good,greeting"
+"hey hope you're doing well,greeting"
+"hi hope you're doing well,greeting"
+"hello hope you're doing well,greeting"
+"i feel stressed,depression"
+"i am stressed,depression"
+"i am very stressed,depression"
+"i feel too much stress,depression"
+"i am under stress,depression"
+"i feel pressure,depression"
+"i feel too much pressure,depression"
+"i am under pressure,depression"
+"everything feels stressful,depression"
+"life is stressful,depression"
+"i feel overwhelmed,depression"
+"i am overwhelmed,depression"
+"i feel mentally tired,depression"
+"i am mentally tired,depression"
+"i feel exhausted,depression"
+"i am exhausted,depression"
+"i feel drained,depression"
+"i feel burnt out,depression"
+"i am burnt out,depression"
+"i have burnout,depression"
+"i feel low,depression"
+"i feel very low,depression"
+"i feel down,depression"
+"i am feeling down,depression"
+"i feel sad,depression"
+"i am sad,depression"
+"i feel very sad,depression"
+"i feel unhappy,depression"
+"i am unhappy,depression"
+"i feel depressed,depression"
+"i am depressed,depression"
+"i feel very depressed,depression"
+"i feel empty,depression"
+"i feel numb,depression"
+"i feel hopeless,depression"
+"i feel helpless,depression"
+"i feel worthless,depression"
+"i feel useless,depression"
+"i feel lost,depression"
+"i feel broken,depression"
+"i am not okay,depression"
+"i am not fine,depression"
+"i am not feeling good,depression"
+"i feel terrible,depression"
+"i feel really bad,depression"
+"i feel bad,depression"
+"i feel weak,depression"
+"i feel mentally weak,depression"
+"i feel like crying,depression"
+"i want to cry,depression"
+"i feel like giving up,depression"
+"i want to give up,depression"
+"i feel no motivation,depression"
+"i have no motivation,depression"
+"i feel no energy,depression"
+"i have no energy,depression"
+"i feel lazy all the time,depression"
+"i feel tired all day,depression"
+"i feel sleepy always,depression"
+"i feel exhausted daily,depression"
+"i feel drained every day,depression"
+"i feel alone,depression"
+"i feel lonely,depression"
+"i feel very lonely,depression"
+"i have no one,depression"
+"no one understands me,depression"
+"i feel ignored,depression"
+"i feel disconnected,depression"
+"i feel isolated,depression"
+"i feel socially isolated,depression"
+"i feel distant from everyone,depression"
+"i feel like nobody cares,depression"
+"i feel like no one cares,depression"
+"i feel unwanted,depression"
+"i feel rejected,depression"
+"i feel negative,depression"
+"i think negative,depression"
+"i always think negative,depression"
+"i feel hopeless about life,depression"
+"life feels meaningless,depression"
+"life has no meaning,depression"
+"i feel like life is pointless,depression"
+"i feel life is useless,depression"
+"i feel like quitting everything,depression"
+"i want to stop everything,depression"
+"i feel stuck in life,depression"
+"i feel trapped,depression"
+"i feel stuck,depression"
+"i feel confused,depression"
+"i feel lost in life,depression"
+"i don't know what to do,depression"
+"i feel directionless,depression"
+"i feel empty inside,depression"
+"i feel blank,depression"
+"i feel numb inside,depression"
+"i feel no emotions,depression"
+"i feel nothing,depression"
+"i feel emotionally drained,depression"
+"i feel emotionally tired,depression"
+"i feel emotionally exhausted,depression"
+"i feel emotionally weak,depression"
+"i feel emotionally unstable,depression"
+"i feel mentally exhausted,depression"
+"i feel mentally drained,depression"
+"i feel mentally weak,depression"
+"i feel mentally unstable,depression"
+"i feel mentally down,depression"
+"i feel mentally broken,depression"
+"i feel mentally low,depression"
+"i feel mentally stressed,depression"
+"i feel stress all the time,depression"
+"i feel stress everyday,depression"
+"i feel stress constantly,depression"
+"i am always stressed,depression"
+"i am stressed daily,depression"
+"i am stressed all the time,depression"
+"i feel pressure all the time,depression"
+"i feel pressure everyday,depression"
+"i feel pressure constantly,depression"
+"i feel overwhelmed all the time,depression"
+"i feel overwhelmed daily,depression"
+"i feel overwhelmed constantly,depression"
+"i feel tired of everything,depression"
+"i am tired of everything,depression"
+"i am tired of life,depression"
+"i feel tired of life,depression"
+"i feel like nothing matters,depression"
+"nothing matters to me,depression"
+"i don't care about anything,depression"
+"i lost interest in everything,depression"
+"i lost interest in life,depression"
+"i don't enjoy anything,depression"
+"i feel bored with life,depression"
+"i feel uninterested in everything,depression"
+"i feel dull,depression"
+"i feel blank all the time,depression"
+"i feel empty all the time,depression"
+"i feel down all the time,depression"
+"i feel sad all the time,depression"
+"i feel depressed all the time,depression"
+"i feel low all the time,depression"
+"i feel hopeless all the time,depression"
+"i feel negative all the time,depression"
+"i feel lonely all the time,depression"
+"i feel alone all the time,depression"
+"i feel stressed about studies,depression"
+"i feel stressed about exams,depression"
+"i feel stressed about work,depression"
+"i feel stressed about career,depression"
+"i feel stressed about future,depression"
+"i feel stressed about life,depression"
+"i feel stressed about everything,depression"
+"studies are stressing me,depression"
+"exams are stressing me,depression"
+"work is stressing me,depression"
+"life is stressing me,depression"
+"everything is stressing me,depression"
+"i feel too much burden,depression"
+"i feel burdened,depression"
+"i feel heavy inside,depression"
+"i feel pressure inside,depression"
+"i feel stress inside,depression"
+"i feel pain inside,depression"
+"i feel emotional pain,depression"
+"i feel mental pain,depression"
+"i feel inner pain,depression"
+"i feel heartbroken,depression"
+"i feel broken inside,depression"
+"i feel shattered,depression"
+"i feel crushed,depression"
+"i feel defeated,depression"
+"i feel like a failure,depression"
+"i think i am a failure,depression"
+"i feel like i failed,depression"
+"i feel like i am useless,depression"
+"i feel like i am nothing,depression"
+"i feel like i am nobody,depression"
+"i feel like i am not enough,depression"
+"i feel like i am weak,depression"
+"i feel like i am lost,depression"
+"i feel like i am broken,depression"
+"i feel like i am tired,depression"
+"i feel like i am done,depression"
+"i feel like i can't continue,depression"
+"i feel like i can't handle this,depression"
+"i feel like i can't manage,depression"
+"i feel like i can't cope,depression"
+"i feel like i can't deal with this,depression"
+"i feel like i can't take it anymore,depression"
+"i can't handle stress,depression"
+"i can't handle pressure,depression"
+"i can't handle life,depression"
+"i can't manage stress,depression"
+"i can't manage life,depression"
+"i can't deal with stress,depression"
+"i can't deal with pressure,depression"
+"i can't deal with life,depression"
+"i feel very stressed today,depression"
+"i feel very low today,depression"
+"i feel very sad today,depression"
+"i feel very depressed today,depression"
+"i feel very tired today,depression"
+"i feel very overwhelmed today,depression"
+"i feel very lonely today,depression"
+"i feel very empty today,depression"
+"i feel very hopeless today,depression"
+"i feel very negative today,depression"
+"i am not feeling okay today,depression"
+"i am not feeling good today,depression"
+"i am not fine today,depression"
+"i am not okay today,depression"
+"i feel anxious,anxiety"
+"i am anxious,anxiety"
+"i feel very anxious,anxiety"
+"i am very anxious,anxiety"
+"i feel anxiety,anxiety"
+"i have anxiety,anxiety"
+"i feel nervous,anxiety"
+"i am nervous,anxiety"
+"i feel very nervous,anxiety"
+"i am very nervous,anxiety"
+"i feel panic,anxiety"
+"i have panic,anxiety"
+"i feel panic attack,anxiety"
+"i have panic attacks,anxiety"
+"i get panic attacks,anxiety"
+"i feel worried,anxiety"
+"i am worried,anxiety"
+"i feel very worried,anxiety"
+"i am very worried,anxiety"
+"i feel fear,anxiety"
+"i feel scared,anxiety"
+"i am scared,anxiety"
+"i feel uneasy,anxiety"
+"i am uneasy,anxiety"
+"i feel restless,anxiety"
+"i am restless,anxiety"
+"i feel tension,anxiety"
+"i feel stressed and anxious,anxiety"
+"i feel anxiety all the time,anxiety"
+"i am anxious all the time,anxiety"
+"i feel nervous all the time,anxiety"
+"i feel worried all the time,anxiety"
+"i feel panic all the time,anxiety"
+"i feel anxious everyday,anxiety"
+"i am anxious everyday,anxiety"
+"i feel nervous everyday,anxiety"
+"i feel worried everyday,anxiety"
+"i feel panic everyday,anxiety"
+"i feel anxious constantly,anxiety"
+"i feel nervous constantly,anxiety"
+"i feel worried constantly,anxiety"
+"i feel panic constantly,anxiety"
+"i feel anxious right now,anxiety"
+"i feel nervous right now,anxiety"
+"i feel worried right now,anxiety"
+"i feel panic right now,anxiety"
+"i feel anxious today,anxiety"
+"i feel nervous today,anxiety"
+"i feel worried today,anxiety"
+"i feel panic today,anxiety"
+"i feel anxious at night,anxiety"
+"i feel nervous at night,anxiety"
+"i feel worried at night,anxiety"
+"i feel panic at night,anxiety"
+"i feel anxiety at night,anxiety"
+"i feel anxious in exams,anxiety"
+"i feel nervous in exams,anxiety"
+"i feel panic in exams,anxiety"
+"i feel worried about exams,anxiety"
+"i feel anxious about studies,anxiety"
+"i feel nervous about studies,anxiety"
+"i feel anxious about work,anxiety"
+"i feel nervous about work,anxiety"
+"i feel anxious about future,anxiety"
+"i feel worried about future,anxiety"
+"i feel anxious about life,anxiety"
+"i feel worried about life,anxiety"
+"i feel anxious about everything,anxiety"
+"i feel worried about everything,anxiety"
+"i feel anxious in public,anxiety"
+"i feel nervous in public,anxiety"
+"i feel anxious in crowd,anxiety"
+"i feel nervous in crowd,anxiety"
+"i feel social anxiety,anxiety"
+"i have social anxiety,anxiety"
+"i feel anxious around people,anxiety"
+"i feel nervous around people,anxiety"
+"i feel anxious when talking,anxiety"
+"i feel nervous when talking,anxiety"
+"i feel anxious while speaking,anxiety"
+"i feel nervous while speaking,anxiety"
+"i feel anxious during presentation,anxiety"
+"i feel nervous during presentation,anxiety"
+"i feel anxious in interviews,anxiety"
+"i feel nervous in interviews,anxiety"
+"i feel anxious before exams,anxiety"
+"i feel nervous before exams,anxiety"
+"i feel panic before exams,anxiety"
+"i feel anxious before sleep,anxiety"
+"i feel nervous before sleep,anxiety"
+"i feel anxious while sleeping,anxiety"
+"i feel panic while sleeping,anxiety"
+"i feel anxiety symptoms,anxiety"
+"i have anxiety symptoms,anxiety"
+"i feel my heart racing,anxiety"
+"my heart is beating fast,anxiety"
+"i feel sweating,anxiety"
+"i feel breathless,anxiety"
+"i feel shortness of breath,anxiety"
+"i feel dizzy,anxiety"
+"i feel lightheaded,anxiety"
+"i feel shaky,anxiety"
+"i feel trembling,anxiety"
+"i feel chest tightness,anxiety"
+"i feel chest pain,anxiety"
+"i feel suffocated,anxiety"
+"i feel choking,anxiety"
+"i feel uneasy inside,anxiety"
+"i feel something is wrong,anxiety"
+"i feel something bad will happen,anxiety"
+"i feel like losing control,anxiety"
+"i feel like fainting,anxiety"
+"i feel like i will die,anxiety"
+"i feel like i am in danger,anxiety"
+"i feel like something is not right,anxiety"
+"i feel overthinking,anxiety"
+"i overthink everything,anxiety"
+"i think too much,anxiety"
+"i cannot stop thinking,anxiety"
+"i keep thinking negative,anxiety"
+"i keep worrying,anxiety"
+"i cannot relax,anxiety"
+"i can't relax,anxiety"
+"i cannot calm down,anxiety"
+"i can't calm down,anxiety"
+"i feel uneasy all the time,anxiety"
+"i feel restless all the time,anxiety"
+"i feel tension all the time,anxiety"
+"i feel panic all the time,anxiety"
+"i feel fear all the time,anxiety"
+"i feel scared all the time,anxiety"
+"i feel anxious and stressed,anxiety"
+"i feel nervous and stressed,anxiety"
+"i feel worried and stressed,anxiety"
+"i feel panic and stress,anxiety"
+"i feel anxious and tired,anxiety"
+"i feel nervous and tired,anxiety"
+"i feel worried and tired,anxiety"
+"i feel panic and tired,anxiety"
+"i feel anxious and weak,anxiety"
+"i feel nervous and weak,anxiety"
+"i feel worried and weak,anxiety"
+"i feel panic and weak,anxiety"
+"i feel anxious without reason,anxiety"
+"i feel nervous without reason,anxiety"
+"i feel worried without reason,anxiety"
+"i feel panic without reason,anxiety"
+"i feel anxiety suddenly,anxiety"
+"i feel panic suddenly,anxiety"
+"i get sudden anxiety,anxiety"
+"i get sudden panic,anxiety"
+"i get anxiety attacks,anxiety"
+"i get panic attacks frequently,anxiety"
+"i feel anxiety attacks frequently,anxiety"
+"i feel panic attacks frequently,anxiety"
+"i feel anxiety episodes,anxiety"
+"i feel panic episodes,anxiety"
+"i feel constant anxiety,anxiety"
+"i feel constant panic,anxiety"
+"i feel continuous anxiety,anxiety"
+"i feel continuous panic,anxiety"
+"i feel anxiety all day,anxiety"
+"i feel panic all day,anxiety"
+"i feel nervous all day,anxiety"
+"i feel worried all day,anxiety"
+"i feel anxious whole day,anxiety"
+"i feel nervous whole day,anxiety"
+"i feel worried whole day,anxiety"
+"i feel panic whole day,anxiety"
+"i feel anxious lately,anxiety"
+"i feel nervous lately,anxiety"
+"i feel worried lately,anxiety"
+"i feel panic lately,anxiety"
+"i feel anxious these days,anxiety"
+"i feel nervous these days,anxiety"
+"i feel worried these days,anxiety"
+"i feel panic these days,anxiety"
+"i am feeling anxious these days,anxiety"
+"i am feeling nervous these days,anxiety"
+"i am feeling worried these days,anxiety"
+"i am feeling panic these days,anxiety"
+"i feel anxious more often,anxiety"
+"i feel nervous more often,anxiety"
+"i feel worried more often,anxiety"
+"i feel panic more often,anxiety"
+"i feel anxiety increasing,anxiety"
+"my anxiety is increasing,anxiety"
+"i feel panic increasing,anxiety"
+"my panic is increasing,anxiety"
+"i feel anxiety getting worse,anxiety"
+"my anxiety is getting worse,anxiety"
+"i feel panic getting worse,anxiety"
+"my panic is getting worse,anxiety"
+"lifestyle,i want a better routine"
+"lifestyle,how to improve my daily routine"
+"lifestyle,my lifestyle is unhealthy"
+"lifestyle,i need to fix my habits"
+"lifestyle,how to live a healthy life"
+"lifestyle,give me lifestyle advice"
+"lifestyle,how to improve my lifestyle"
+"lifestyle,i have bad daily habits"
+"lifestyle,i feel lazy all day"
+"lifestyle,how to stop laziness"
+"lifestyle,i want to wake up early"
+"lifestyle,i sleep very late"
+"lifestyle,my sleep schedule is bad"
+"lifestyle,i use phone too much"
+"lifestyle,how to reduce screen time"
+"lifestyle,i waste time on mobile"
+"lifestyle,i am addicted to social media"
+"lifestyle,i don't exercise"
+"lifestyle,i never workout"
+"lifestyle,how to start exercising"
+"lifestyle,i eat unhealthy food"
+"lifestyle,my diet is poor"
+"lifestyle,i skip meals"
+"lifestyle,i don't drink enough water"
+"lifestyle,how to stay hydrated"
+"lifestyle,i sit all day"
+"lifestyle,i have no physical activity"
+"lifestyle,how to stay active"
+"lifestyle,i feel tired always"
+"lifestyle,i lack energy"
+"lifestyle,i have no motivation"
+"lifestyle,how to stay motivated daily"
+"lifestyle,i want discipline"
+"lifestyle,how to build discipline"
+"lifestyle,i procrastinate a lot"
+"lifestyle,how to stop procrastination"
+"lifestyle,i waste time"
+"lifestyle,i am not productive"
+"lifestyle,how to be productive"
+"lifestyle,i feel unorganized"
+"lifestyle,my life is messy"
+"lifestyle,i need structure in life"
+"lifestyle,how to manage time"
+"lifestyle,time management tips"
+"lifestyle,i can't manage time"
+"lifestyle,my routine is inconsistent"
+"lifestyle,i break habits easily"
+"lifestyle,how to build habits"
+"lifestyle,i want good habits"
+"lifestyle,i can't stay consistent"
+"lifestyle,i feel burnt out"
+"lifestyle,i feel exhausted"
+"lifestyle,how to balance life"
+"lifestyle,i want work life balance"
+"lifestyle,i study all day no rest"
+"lifestyle,i don't take breaks"
+"lifestyle,how to relax"
+"lifestyle,i feel overloaded"
+"lifestyle,too much workload"
+"lifestyle,how to handle busy life"
+"lifestyle,i feel unhealthy"
+"lifestyle,i want to be fit"
+"lifestyle,how to stay fit"
+"lifestyle,i don't go outside"
+"lifestyle,i stay indoors all day"
+"lifestyle,how to go out more"
+"lifestyle,i feel socially inactive"
+"lifestyle,i don't meet people"
+"lifestyle,i feel isolated"
+"lifestyle,how to improve social life"
+"lifestyle,i don't talk to anyone"
+"lifestyle,how to improve communication"
+"lifestyle,i want confidence"
+"lifestyle,how to build confidence"
+"lifestyle,i feel insecure"
+"lifestyle,how to improve self care"
+"lifestyle,i ignore my health"
+"lifestyle,i don't take care of myself"
+"lifestyle,self care tips"
+"lifestyle,i feel low energy"
+"lifestyle,i feel sleepy all day"
+"lifestyle,i sleep too much"
+"lifestyle,i sleep too less"
+"lifestyle,i wake up tired"
+"lifestyle,i feel lazy always"
+"lifestyle,i eat junk food daily"
+"lifestyle,how to stop junk food"
+"lifestyle,i drink too much coffee"
+"lifestyle,i drink alcohol often"
+"lifestyle,how to reduce bad habits"
+"lifestyle,i want healthy habits"
+"lifestyle,how to improve mental health lifestyle"
+"lifestyle,how to stay calm daily"
+"lifestyle,i feel stressed daily"
+"lifestyle,how to manage stress lifestyle"
+"lifestyle,i feel anxious daily"
+"lifestyle,how to calm mind"
+"lifestyle,i overthink a lot"
+"lifestyle,how to stop overthinking"
+"lifestyle,i want peace of mind"
+"lifestyle,how to feel peaceful"
+"lifestyle,i want simple life"
+"lifestyle,how to simplify life"
+"lifestyle,i am always busy"
+"lifestyle,i never rest"
+"lifestyle,how to take breaks"
+"lifestyle,i don't enjoy life"
+"lifestyle,how to enjoy life"
+"lifestyle,i feel bored always"
+"lifestyle,how to make life interesting"
+"lifestyle,i have no hobbies"
+"lifestyle,how to find hobbies"
+"lifestyle,i want new activities"
+"lifestyle,what hobbies should i try"
+"lifestyle,i feel stuck in life"
+"lifestyle,how to improve lifestyle habits"
+"lifestyle,i want daily routine plan"
+"lifestyle,give me routine plan"
+"lifestyle,how to start day well"
+"lifestyle,morning routine tips"
+"lifestyle,night routine tips"
+"lifestyle,i sleep late at night"
+"lifestyle,i use phone before sleep"
+"lifestyle,how to sleep early"
+"lifestyle,i wake up late"
+"lifestyle,how to wake early"
+"lifestyle,i skip breakfast"
+"lifestyle,healthy breakfast ideas"
+"lifestyle,i eat at random times"
+"lifestyle,how to eat properly"
+"lifestyle,i don't track health"
+"lifestyle,how to monitor health"
+"lifestyle,i want fitness routine"
+"lifestyle,home workout ideas"
+"lifestyle,i don't go gym"
+"lifestyle,how to exercise at home"
+"lifestyle,i feel weak"
+"lifestyle,how to gain strength"
+"lifestyle,i want stamina"
+"lifestyle,how to increase stamina"
+"lifestyle,i feel unhealthy lifestyle"
+"lifestyle,i don't follow schedule"
+"lifestyle,how to follow routine"
+"lifestyle,i break routine daily"
+"lifestyle,how to stay consistent routine"
+"lifestyle,i feel distracted"
+"lifestyle,how to focus better"
+"lifestyle,i can't focus on tasks"
+"lifestyle,focus improvement tips"
+"lifestyle,i waste time on reels"
+"lifestyle,reduce social media usage"
+"lifestyle,i scroll too much"
+"lifestyle,i feel addicted to phone"
+"lifestyle,how to detox from phone"
+"lifestyle,digital detox tips"
+"lifestyle,i feel mentally tired"
+"lifestyle,how to refresh mind"
+"lifestyle,i need relaxation tips"
+"lifestyle,i don't go outside much"
+"lifestyle,importance of sunlight"
+"lifestyle,i don't walk"
+"lifestyle,benefits of walking"
+"lifestyle,i feel stiff body"
+"lifestyle,stretching importance"
+"lifestyle,i don't stretch"
+"lifestyle,yoga benefits"
+"lifestyle,i want to start yoga"
+"lifestyle,i feel negative"
+"lifestyle,how to stay positive"
+"lifestyle,i think too much"
+"lifestyle,how to calm thoughts"
+"lifestyle,i can't control habits"
+"lifestyle,habit control tips"
+"lifestyle,i feel lazy to start"
+"lifestyle,how to start anything"
+"lifestyle,i delay everything"
+"lifestyle,how to stop delay"
+"lifestyle,i feel tired mentally"
+"lifestyle,mental refresh ideas"
+"lifestyle,i want balance life"
+"lifestyle,how to balance study and life"
+"lifestyle,study life balance tips"
+"lifestyle,i feel overwhelmed daily"
+"lifestyle,how to reduce overload"
+"lifestyle,i feel drained"
+"lifestyle,how to recharge energy"
+"lifestyle,i don't plan my day"
+"lifestyle,how to plan day"
+"lifestyle,daily planner tips"
+"lifestyle,i want organized life"
+"lifestyle,organization tips"
+"lifestyle,i feel messy life"
+"lifestyle,how to clean routine"
+"lifestyle,i want structured life"
+"lifestyle,how to structure day"
+"lifestyle,i feel off track"
+"lifestyle,how to get back on track"
+"lifestyle,i feel lost routine"
+"lifestyle,how to fix routine"
+"lifestyle,i want healthy schedule"
+"lifestyle,build healthy schedule"
+"lifestyle,i feel unstable routine"
+"lifestyle,how to stabilize life"
+"lifestyle,i don't track goals"
+"lifestyle,goal tracking tips"
+"lifestyle,i want better life"
+"lifestyle,improve life tips"
+"lifestyle,i feel unhealthy mentally"
+"lifestyle,mental health routine"
+"lifestyle,healthy lifestyle tips"
+"lifestyle,improve lifestyle fast"
+"lifestyle,i want discipline lifestyle"
+"lifestyle,build discipline life"
+"lifestyle,i want good routine"
+"lifestyle,perfect daily routine"
+"lifestyle,i feel lazy life"
+"lifestyle,active lifestyle tips"
+"lifestyle,i don't move much"
+"lifestyle,sedentary lifestyle help"
+"lifestyle,i sit long hours"
+"lifestyle,how to avoid sitting long"
+"lifestyle,i don't take care health"
+"lifestyle,health care tips"
+"lifestyle,i ignore sleep"
+"lifestyle,sleep importance"
+"lifestyle,i feel low productivity"
+"lifestyle,productivity routine"
+"lifestyle,i want high productivity"
+"lifestyle,boost productivity tips"
+find doctor
+doctor near me
+best doctor nearby
+need a doctor
+find specialist
+search doctor by city
+doctor in my area
+show doctors
+find hospital doctor
+medical help doctor
+doctor list
+top rated doctors
+best physician
+find clinic
+doctor available
+search by state doctor
+doctor recommendation
+good doctor near me
+which doctor to consult
+need medical consultation
+book doctor
+doctor for stress
+mental health doctor
+psychologist near me
+psychiatrist near me
+doctor for anxiety
+doctor for depression
+doctor for panic attack
+find cardiologist
+find neurologist
+find general physician
+doctor directory
+hospital search
+medical specialist
+doctor suggestion
+doctor finder help
+show nearby clinic
+doctor in city
+doctor in state
+best hospital doctor
+search medical expert
+doctor availability
+consult doctor online
+doctor appointment
+where to find doctor
+urgent doctor needed
+doctor for mental health
+doctor help
+healthcare provider
+medical support doctor
+doctor contact
+doctor phone number
+doctor details
+doctor location
+map doctor
+nearest clinic
+doctor near location
+doctor by specialization
+find therapist
+find counselor
+mental health expert
+doctor for stress problem
+doctor help for anxiety
+doctor for panic
+find medical professional
+top doctor list
+trusted doctor
+doctor rating
+doctor review
+doctor feedback
+top specialists
+doctor services
+doctor booking
+hospital near me
+clinic near me
+doctor help fast
+quick doctor search
+medical emergency doctor
+urgent healthcare
+doctor advice
+health consultation
+doctor help needed
+find local doctor
+doctor recommendation near me
+doctor search online
+doctor contact details
+hospital doctor search
+doctor finder system
+medical directory
+doctor search platform
+doctor search tool
+doctor search engine
+doctor location finder
+doctor by district
+doctor by location
+doctor by hospital
+doctor by specialty
+doctor for checkup
+doctor for diagnosis
+doctor help online
+virtual doctor
+consult doctor online
+doctor telemedicine
+online doctor help
+doctor video call
+doctor consultation online
+book appointment doctor
+doctor appointment online
+doctor help quickly
+doctor nearby now
+doctor open now
+doctor available now
+doctor urgent
+doctor emergency
+find emergency doctor
+doctor now
+doctor search immediately
+doctor for health issue
+doctor for illness
+doctor for symptoms
+doctor consultation needed
+doctor help required
+medical doctor near me
+doctor finder app
+doctor search system
+doctor portal
+find healthcare provider
+health expert near me
+medical expert near me
+doctor help urgently
+doctor support
+doctor assistance
+doctor guidance
+doctor advice needed
+doctor for mental support
+doctor for counseling
+mental health counseling
+doctor support system
+doctor help service
+doctor finder website
+doctor directory online
+doctor database
+find doctor quickly
+search doctor instantly
+doctor locator
+doctor tracking
+doctor near location
+doctor map search
+doctor geo search
+doctor GPS search
+doctor for treatment
+doctor for care
+doctor healthcare support
+doctor consultation service
+doctor medical advice
+doctor professional help
+doctor expert advice
+doctor for therapy
+doctor for mental illness
+doctor help mental stress
+doctor help depression
+doctor help anxiety
+doctor help panic attack
+doctor consultation mental health
+doctor for stress therapy
+doctor treatment mental health
+doctor specialist mental health
+doctor help emotional support
+doctor help wellbeing
+doctor help health issues
+doctor for chronic stress
+doctor guidance mental health
+doctor counseling services
+doctor therapy support
+doctor clinic mental health
+doctor mental health clinic
+doctor help support system
+doctor search premium
+doctor finder premium
+doctor system search
+doctor platform search
+doctor quick access
+doctor help fast online
+doctor consultation instant
+doctor nearby instant
+doctor connect
+doctor connect online
+doctor connect near me
+doctor connect fast
+doctor connect help
+doctor support connect
+doctor help connect
+doctor system connect
+doctor platform connect
+doctor assistance connect
+doctor network
+doctor network near me
+doctor network online
+doctor network search
+doctor network system
+doctor network help
+doctor network platform
+doctor network connect
+doctor network support
+help me now
+emergency help
+urgent help needed
+i need help immediately
+crisis help
+i am not okay
+i feel unsafe
+i need urgent support
+call emergency
+emergency situation
+mental crisis
+i am in danger
+i need immediate help
+please help me
+help urgently
+panic emergency
+i feel like harming myself
+i am in trouble
+i feel unsafe mentally
+need urgent care
+crisis situation
+i feel overwhelmed
+i cannot handle this
+i need support now
+please respond fast
+i need someone now
+emergency mental help
+urgent mental support
+critical situation
+danger situation
+i am scared
+i feel out of control
+i need assistance
+immediate help required
+help needed fast
+i am panicking
+panic emergency
+i need urgent doctor
+emergency doctor
+urgent mental doctor
+crisis doctor
+help me please
+i feel like giving up
+i feel lost
+i am in distress
+severe anxiety attack
+panic attack emergency
+depression crisis
+mental breakdown
+i feel unstable
+i need help urgently
+please assist me
+help needed immediately
+urgent situation
+dangerous feeling
+i am not safe
+i feel like collapsing
+i cannot cope
+i need urgent relief
+help me calm down
+i feel extreme stress
+mental emergency
+health emergency
+support urgently
+crisis intervention
+help me survive
+i need guidance now
+urgent support needed
+please save me
+i need urgent advice
+emergency assistance
+help fast
+help quick
+help immediate
+i feel like breaking
+i am losing control
+i need emergency response
+call someone
+help me talk
+i need immediate counseling
+urgent counseling
+emergency therapist
+mental crisis support
+panic help
+urgent anxiety help
+urgent depression help
+i feel hopeless
+i feel helpless
+i need rescue
+help me calm
+i am overwhelmed
+i feel pressure
+i feel breaking down
+i feel unstable mentally
+i need emergency help now
+help me right now
+urgent intervention
+mental help urgently
+i need assistance now
+i feel like crying uncontrollably
+i feel lost completely
+i need emergency support system
+i feel extreme pressure
+i feel suffocated
+i feel panic rising
+i need immediate relief
+i need urgent conversation
+please someone help
+i feel like screaming
+i feel mentally exhausted
+i cannot think clearly
+i feel like collapsing mentally
+i feel emotionally broken
+i feel extreme anxiety
+i need urgent calming help
+i need breathing help
+help me breathe
+i am hyperventilating
+i feel dizzy mentally
+i need urgent grounding
+help me focus
+i am shaking
+i feel fear
+i need urgent reassurance
+i feel like something bad will happen
+i am scared of everything
+i feel unsafe alone
+i need someone to talk
+urgent talk needed
+help me relax now
+i need fast mental support
+i need urgent therapy
+i feel like giving up everything
+i cannot continue like this
+i feel stuck
+i feel trapped
+i need urgent escape mentally
+help me cope
+help me survive this moment
+i need immediate coping help
+i feel overwhelmed by thoughts
+i feel panic waves
+i feel fear attacks
+i feel anxiety spikes
+i feel unstable emotionally
+i need immediate grounding help
+help me stabilize
+i need urgent emotional help
+i feel broken inside
+i need immediate support system
+i feel mentally weak
+i feel lost and alone
+i feel isolated
+i need emergency care now
+what should i eat
+healthy diet advice
+nutrition help
+food for stress
+diet for anxiety
+foods for depression
+healthy eating
+balanced diet
+what to eat daily
+diet plan
+nutrition tips
+healthy lifestyle food
+foods to reduce stress
+best diet for mental health
+brain healthy foods
+food for energy
+what food helps mood
+foods for better sleep
+diet for better sleep
+healthy breakfast ideas
+healthy lunch ideas
+healthy dinner ideas
+nutrition guide
+what to eat for focus
+foods for concentration
+diet for students
+healthy student diet
+quick healthy meals
+nutrition suggestions
+food advice
+meal planning
+daily nutrition
+healthy habits food
+food for brain
+foods to improve mood
+healthy snacks
+low stress diet
+anti anxiety foods
+anti depression diet
+food for calm mind
+diet to reduce anxiety
+foods to relax
+nutrition for wellbeing
+diet suggestions
+food help
+meal ideas
+diet improvement
+nutrition improvement
+eat healthy tips
+food routine
+healthy eating habits
+nutrition basics
+balanced meal plan
+diet chart
+simple diet plan
+food for health
+foods for immunity
+nutrition for immunity
+healthy lifestyle diet
+food guidance
+nutrition consultation
+diet help
+meal suggestions
+healthy food ideas
+nutritious food
+diet for energy boost
+food for productivity
+diet for focus
+nutrition for students
+diet for exams
+food for study
+healthy brain food
+diet for mental clarity
+nutrition advice daily
+diet routine
+meal routine
+healthy food routine
+nutrition daily
+balanced food intake
+food planning
+diet management
+healthy meal prep
+quick nutrition tips
+easy diet plan
+budget healthy diet
+affordable nutrition
+food for fitness
+diet for exercise
+protein rich foods
+vitamin rich foods
+minerals rich foods
+nutrition knowledge
+food awareness
+healthy choices food
+food recommendations
+diet suggestions daily
+meal tracking
+food tracking
+nutrition tracking
+diet monitoring
+healthy eating system
+nutrition system
+food guide system
+diet system
+nutrition program
+food habits improvement
+diet lifestyle change
+healthy living diet
+food for better life
+nutrition for happiness
+diet for calmness
+foods for peace of mind
+diet for relaxation
+food for mental strength
+nutrition for stability
+healthy food plan
+diet for mood swings
+food for emotional balance
+nutrition for stress control
+diet for anxiety control
+food for depression control
+nutrition for mental health improvement
+diet for better living
+food suggestions healthy
+nutrition suggestions daily
+diet advice simple
+food advice simple
+nutrition guidance simple
+diet tips easy
+healthy eating easy
+nutrition basics easy
+diet routine easy
+food plan easy
+nutrition habits easy
+diet structure
+food structure
+nutrition structure
+diet discipline
+healthy food discipline
+nutrition discipline
+diet lifestyle habits
+food lifestyle habits
+nutrition lifestyle habits
+diet for long term health
+food for longevity
+nutrition for longevity
+healthy aging diet
+food for brain longevity
+diet for healthy life
+nutrition for healthy life
+food for wellness
+diet for wellness
+nutrition wellness
+food for balance
+diet for balance
+nutrition balance
+food harmony diet
+nutrition harmony
+diet harmony
+food for mental peace
+diet for mental peace
+nutrition for peace
+"sleep,i cant sleep"
+"sleep,i am not sleeping well"
+"sleep,i have poor sleep"
+"sleep,my sleep is disturbed"
+"sleep,i sleep very less"
+"sleep,i sleep too much"
+"sleep,my sleep schedule is bad"
+"sleep,i sleep late"
+"sleep,i wake up late"
+"sleep,i wake up tired"
+"sleep,i feel sleepy all day"
+"sleep,i feel tired after sleep"
+"sleep,i dont feel fresh"
+"sleep,i have insomnia"
+"sleep,i cant fall asleep"
+"sleep,i wake up at night"
+"sleep,my sleep breaks often"
+"sleep,i sleep irregularly"
+"sleep,i need better sleep"
+"sleep,how to improve sleep"
+"sleep,how to sleep better"
+"sleep,good sleep tips"
+"sleep,improve sleep quality"
+"sleep,sleep advice"
+"sleep,sleep routine help"
+"sleep,night routine help"
+"sleep,why am i not sleeping"
+"sleep,why do i wake up tired"
+"sleep,i feel exhausted after sleep"
+"sleep,i dont get enough sleep"
+"sleep,i oversleep daily"
+"sleep,i sleep late at night"
+"sleep,i use phone before sleep"
+"sleep,how to fix sleep schedule"
+"sleep,how to sleep early"
+"sleep,how to wake early"
+"sleep,i feel lazy due to sleep"
+"sleep,sleep affects my mood"
+"sleep,sleep affecting my health"
+"sleep,i need rest"
+"sleep,i dont rest properly"
+"sleep,how many hours should i sleep"
+"sleep,i sleep less than 5 hours"
+"sleep,i sleep too long"
+"sleep,i sleep randomly"
+"sleep,irregular sleep pattern"
+"sleep,i feel sleepy in class"
+"sleep,i feel sleepy while studying"
+"sleep,i nap too much"
+"sleep,i cant maintain sleep routine"
+"sleep,i feel restless at night"
+"sleep,my mind is active at night"
+"sleep,i cant relax before sleep"
+"sleep,i use mobile at night"
+"sleep,i scroll before sleep"
+"sleep,i cant stop using phone at night"
+"sleep,my sleep is poor quality"
+"sleep,i wake up frequently"
+"sleep,i have broken sleep"
+"sleep,i feel fatigue"
+"sleep,i feel low energy"
+"sleep,i need better rest"
+"sleep,sleep improvement tips"
+"sleep,how to sleep peacefully"
+"sleep,deep sleep tips"
+"sleep,how to relax before sleep"
+"sleep,sleep hygiene tips"
+"sleep,i dont follow sleep routine"
+"sleep,i need proper sleep routine"
+"sleep,my sleep is inconsistent"
+"sleep,i sleep at random times"
+"sleep,i feel tired always"
+"sleep,my sleep is unhealthy"
+"sleep,i need better sleep habits"
+"sleep,sleep problem help"
+"sleep,sleep issues"
+"sleep,fix my sleep"
+"sleep,help me sleep"
+"sleep,sleep disorder help"
+"sleep,night sleep problems"
+"sleep,daytime sleepiness"
+"sleep,i cant stay awake"
+"sleep,i feel drowsy"
+"sleep,low sleep energy"
+"sleep,i sleep but feel tired"
+"sleep,i dont feel refreshed"
+"sleep,sleep cycle problem"
+"sleep,sleep cycle disturbed"
+"sleep,i feel sleepy always"
+"sleep,i cant maintain sleep timing"
+"sleep,i want good sleep"
+"sleep,healthy sleep tips"
+"sleep,sleep routine advice"
+"sleep,i dont get deep sleep"
+"sleep,i wake up early unwanted"
+"sleep,i feel restless sleep"
+"sleep,i sleep but mind active"
+"sleep,i feel heavy after sleep"
+"sleep,i sleep too irregular"
+"sleep,i cant fix my sleep"
+"sleep,sleep pattern problem"
+"sleep,i feel low sleep quality"
+"sleep,how to improve sleep cycle"
+"sleep,sleep consistency tips"
+"sleep,sleep health advice"
+"screen,i use phone too much"
+"screen,my screen time is high"
+"screen,i am addicted to mobile"
+"screen,i scroll all day"
+"screen,i use social media too much"
+"screen,i waste time on phone"
+"screen,i use mobile before sleep"
+"screen,i use laptop all day"
+"screen,i sit on screen too long"
+"screen,i am addicted to reels"
+"screen,i cant stop scrolling"
+"screen,i check phone frequently"
+"screen,i use phone at night"
+"screen,screen time is affecting me"
+"screen,reduce screen time"
+"screen,how to reduce screen time"
+"screen,screen addiction help"
+"screen,phone addiction help"
+"screen,digital detox help"
+"screen,i feel addicted to phone"
+"screen,i waste time on instagram"
+"screen,i waste time on youtube"
+"screen,i watch too many videos"
+"screen,i play games all day"
+"screen,i am addicted to gaming"
+"screen,i cant focus due to phone"
+"screen,phone distraction problem"
+"screen,i use phone while studying"
+"screen,screen affects my sleep"
+"screen,screen affects my eyes"
+"screen,screen affecting health"
+"screen,screen usage high"
+"screen,i spend hours on screen"
+"screen,i sit on computer all day"
+"screen,i work on screen too much"
+"screen,screen fatigue"
+"screen,i feel tired from screen"
+"screen,i feel eye strain"
+"screen,screen causing headache"
+"screen,screen addiction problem"
+"screen,i cant control phone use"
+"screen,i check notifications constantly"
+"screen,i feel restless without phone"
+"screen,i need break from screen"
+"screen,screen detox tips"
+"screen,reduce phone usage"
+"screen,phone usage control"
+"screen,i feel distracted"
+"screen,i cant focus due to screen"
+"screen,screen is wasting my time"
+"screen,screen is affecting studies"
+"screen,screen affecting productivity"
+"screen,i need digital break"
+"screen,i want less screen time"
+"screen,limit phone usage"
+"screen,limit screen time"
+"screen,screen time control tips"
+"screen,i scroll at night"
+"screen,i use phone in bed"
+"screen,i am always online"
+"screen,i spend too much time online"
+"screen,i feel addicted to internet"
+"screen,i check phone every minute"
+"screen,i feel uncomfortable without phone"
+"screen,i use screen non stop"
+"screen,i binge watch shows"
+"screen,i watch series all day"
+"screen,i cant stop watching videos"
+"screen,i use phone during meals"
+"screen,i use phone everywhere"
+"screen,i depend on phone"
+"screen,screen affecting lifestyle"
+"screen,screen affecting routine"
+"screen,i need better habits"
+"screen,i want to reduce phone use"
+"screen,screen discipline tips"
+"screen,i need digital discipline"
+"screen,screen overuse problem"
+"screen,phone overuse problem"
+"screen,i feel drained by screen"
+"screen,screen stress"
+"screen,screen overload"
+"screen,screen burnout"
+"screen,i need offline time"
+"screen,i need real life balance"
+"screen,screen balance tips"
+"activity,i dont exercise"
+"activity,i am not active"
+"activity,i sit all day"
+"activity,i have no physical activity"
+"activity,i feel lazy"
+"activity,i dont workout"
+"activity,i want to exercise"
+"activity,how to start exercise"
+"activity,i feel weak physically"
+"activity,i have low stamina"
+"activity,i dont move much"
+"activity,i live sedentary life"
+"activity,i need fitness"
+"activity,fitness help"
+"activity,exercise tips"
+"activity,i want to be active"
+"activity,i feel low energy"
+"activity,i need workout routine"
+"activity,i dont go to gym"
+"activity,home workout ideas"
+"activity,i dont walk"
+"activity,i dont go outside"
+"activity,i feel inactive"
+"activity,i want to be fit"
+"activity,i want healthy body"
+"activity,i lack movement"
+"activity,i feel stiff"
+"activity,i dont stretch"
+"activity,i want to start yoga"
+"activity,yoga help"
+"activity,i need physical fitness"
+"activity,i feel tired quickly"
+"activity,i lack strength"
+"activity,i want stamina"
+"activity,how to increase stamina"
+"activity,i feel lazy to move"
+"activity,i sit long hours"
+"activity,i dont do physical work"
+"activity,i need exercise routine"
+"activity,i dont maintain fitness"
+"activity,i want healthy lifestyle"
+"activity,i feel weak body"
+"activity,i need body movement"
+"activity,i dont play sports"
+"activity,i dont do outdoor activities"
+"activity,i stay indoors"
+"activity,i need movement"
+"activity,i feel inactive lifestyle"
+"activity,i dont follow fitness routine"
+"activity,i want to improve fitness"
+"activity,i feel unhealthy"
+"activity,how to stay active"
+"activity,activity improvement tips"
+"activity,i feel slow physically"
+"activity,i lack endurance"
+"activity,i want to be energetic"
+"activity,i need energy boost"
+"activity,i feel physically drained"
+"activity,i dont do workouts regularly"
+"activity,i skip workouts"
+"activity,i need motivation to exercise"
+"activity,i feel tired without activity"
+"activity,i need fitness plan"
+"activity,exercise daily tips"
+"activity,i want daily workout"
+"activity,i feel heavy body"
+"activity,i need physical improvement"
+"activity,i want healthy habits"
+"activity,activity level low"
+"activity,i dont walk daily"
+"activity,i need walking routine"
+"activity,i need stretching routine"
+"activity,i feel body stiffness"
+"activity,i want flexible body"
+"activity,i need fitness discipline"
+"activity,i want active lifestyle"
+"activity,i need regular exercise"
+"activity,i feel inactive daily"
+"activity,i want to improve health"
+"activity,i need body strength"
+"activity,i want healthy routine"
+"activity,i need fitness habits"
+"social,i feel lonely"
+"social,i dont talk to people"
+"social,i have no friends"
+"social,i feel isolated"
+"social,i avoid people"
+"social,i dont socialize"
+"social,i feel disconnected"
+"social,i am alone"
+"social,i dont interact much"
+"social,i feel socially inactive"
+"social,i dont meet people"
+"social,i stay alone"
+"social,i feel left out"
+"social,i dont communicate"
+"social,i avoid conversations"
+"social,i feel awkward socially"
+"social,i lack social skills"
+"social,i want to improve communication"
+"social,i feel shy"
+"social,i am introvert"
+"social,i avoid social events"
+"social,i dont like crowds"
+"social,i feel nervous around people"
+"social,i dont express myself"
+"social,i feel ignored"
+"social,i feel rejected"
+"social,i feel disconnected socially"
+"social,i need social interaction"
+"social,i want to talk to people"
+"social,i want friends"
+"social,i need social life"
+"social,i feel socially weak"
+"social,i avoid interaction"
+"social,i dont go out"
+"social,i dont hang out"
+"social,i feel lonely daily"
+"social,i feel empty socially"
+"social,i need connection"
+"social,i want better relationships"
+"social,i feel alone even with people"
+"social,i dont open up"
+"social,i hide feelings"
+"social,i dont trust people"
+"social,i need emotional support"
+"social,i want companionship"
+"social,i feel socially anxious"
+"social,i avoid meeting new people"
+"social,i struggle socially"
+"social,i need social confidence"
+"social,i feel uncomfortable socially"
+"social,i lack interaction"
+"social,i need better communication"
+"social,i feel disconnected from others"
+"social,i want to improve social life"
+"social,i need social support"
+"social,i feel socially isolated"
+"social,i dont share feelings"
+"social,i feel distant"
+"social,i need connection with people"
+"social,i want to improve relationships"
+"social,i feel socially weak"
+"social,i need interaction daily"
+"social,i feel ignored by people"
+"social,i want to connect"
+"social,i feel lonely at home"
+"social,i need human interaction"
+"social,i feel socially drained"
+"social,i avoid people always"
+"social,i need friends"
+"social,i want to talk more"
+"social,i need better communication skills"
+"work,i study too much"
+"work,i study too less"
+"work,i work too much"
+"work,i work too less"
+"work,my study hours are high"
+"work,my study hours are low"
+"work,i feel overloaded"
+"work,i feel overworked"
+"work,i feel stressed from work"
+"work,i feel stressed from studies"
+"work,i cant manage study time"
+"work,i cant manage work time"
+"work,i feel busy all day"
+"work,i have too much workload"
+"work,i have no time to relax"
+"work,i study all day"
+"work,i work all day"
+"work,i feel tired from work"
+"work,i feel tired from study"
+"work,i feel burnout"
+"work,i feel exhausted"
+"work,i cant balance work and life"
+"work,i cant balance study and life"
+"work,i need time management"
+"work,time management help"
+"work,i waste time studying"
+"work,i cant focus on study"
+"work,i cant focus on work"
+"work,i procrastinate"
+"work,i delay tasks"
+"work,i cant finish work"
+"work,i cant finish study"
+"work,i feel distracted"
+"work,i need productivity"
+"work,how to be productive"
+"work,i want better study routine"
+"work,i want better work routine"
+"work,i feel pressure from study"
+"work,i feel pressure from work"
+"work,i feel academic stress"
+"work,i feel job stress"
+"work,i have deadlines"
+"work,i cant handle deadlines"
+"work,i feel overwhelmed with work"
+"work,i feel overwhelmed with study"
+"work,i need better schedule"
+"work,i need study plan"
+"work,i need work plan"
+"work,i cant manage time properly"
+"work,i feel unproductive"
+"work,i feel lazy to study"
+"work,i feel lazy to work"
+"work,i cant concentrate"
+"work,i need focus tips"
+"work,i need study discipline"
+"work,i need work discipline"
+"work,i feel burnout from study"
+"work,i feel burnout from work"
+"work,i need break"
+"work,i dont take breaks"
+"work,i work continuously"
+"work,i study continuously"
+"work,i feel mentally tired"
+"work,i feel mentally drained"
+"work,i need better routine"
+"work,i feel stuck in work"
+"work,i feel stuck in study"
+"work,i cant organize tasks"
+"work,i need task management"
+"work,i feel overloaded daily"
+"work,i feel busy always"
+"work,i have too much work"
+"work,i have too much study"
+"work,i need balance"
+"work,i want work life balance"
+"work,i want study life balance"
+"work,i need proper schedule"
+"work,i want effective study"
+"work,i want efficient work"

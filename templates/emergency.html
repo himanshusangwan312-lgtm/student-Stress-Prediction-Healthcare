@@ -1,0 +1,169 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<style>
+.emergency-card {
+    background: rgba(255,255,255,0.05);
+    backdrop-filter: blur(12px);
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.call-btn {
+    font-size: 14px;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+.sos-btn {
+    background: linear-gradient(45deg,#ef4444,#dc2626);
+    border: none;
+    font-size: 20px;
+    padding: 15px;
+    width: 100%;
+}
+</style>
+
+<h2 class="text-center mb-4 text-danger fw-bold">🚨 Emergency Support System</h2>
+
+<!-- 🔴 SOS BUTTON -->
+<div class="mb-4">
+    <a href="tel:112" class="btn sos-btn text-white">
+        🚨 ONE TAP SOS (Call 112)
+    </a>
+</div>
+
+<!-- NATIONAL EMERGENCY -->
+<div class="emergency-card">
+<h4 style="color:#c0392b;">🚨 India National Emergency Numbers</h4>
+
+<ul>
+<li><b>112</b> — National Emergency 
+    <a href="tel:112" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li><b>102</b> — Government Ambulance
+    <a href="tel:102" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li><b>108</b> — Emergency Medical Ambulance
+    <a href="tel:108" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li><b>104</b> — Health Advice Helpline
+    <a href="tel:104" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li><b>1066</b> — Anti Poison Emergency
+    <a href="tel:1066" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+</ul>
+</div>
+
+<!-- SAFETY -->
+<div class="emergency-card">
+<h4>👮 Safety Services</h4>
+
+<ul>
+<li>100 — Police 
+    <a href="tel:100" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li>101 — Fire Brigade 
+    <a href="tel:101" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+</ul>
+</div>
+
+<!-- WOMEN -->
+<div class="emergency-card">
+<h4>👩 Women / Child Support</h4>
+
+<ul>
+<li>181 — Women Helpline 
+    <a href="tel:181" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li>1091 — Women Police 
+    <a href="tel:1091" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li>1098 — Child Helpline 
+    <a href="tel:1098" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+</ul>
+</div>
+
+<!-- DISASTER -->
+<div class="emergency-card">
+<h4>🌪 Disaster & Accident</h4>
+
+<ul>
+<li>1070 — Disaster Relief 
+    <a href="tel:1070" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li>1073 — Road Accident 
+    <a href="tel:1073" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li>1033 — Highway Emergency 
+    <a href="tel:1033" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+</ul>
+</div>
+
+<!-- OTHER -->
+<div class="emergency-card">
+<h4>💻 Other Important Helplines</h4>
+
+<ul>
+<li>1930 — Cyber Fraud 
+    <a href="tel:1930" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li>1906 — LPG Gas Leak 
+    <a href="tel:1906" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+
+<li>1075 — Disease Helpline 
+    <a href="tel:1075" class="btn btn-danger btn-sm call-btn">Call</a>
+</li>
+</ul>
+</div>
+
+<hr style="margin:40px 0;">
+
+<!-- MENTAL HEALTH -->
+<div class="emergency-card">
+<h4 style="color:#27ae60;">🧠 Mental Health Support</h4>
+
+<ul>
+<li><b>14416</b> — Tele-MANAS 
+    <a href="tel:14416" class="btn btn-success btn-sm call-btn">Call</a>
+</li>
+
+<li><b>1-800-891-4416</b> — Toll Free 
+    <a href="tel:18008914416" class="btn btn-success btn-sm call-btn">Call</a>
+</li>
+
+<li><b>1800-599-0019</b> — KIRAN 
+    <a href="tel:18005990019" class="btn btn-success btn-sm call-btn">Call</a>
+</li>
+
+<li><b>112</b> — Crisis Emergency 
+    <a href="tel:112" class="btn btn-success btn-sm call-btn">Call</a>
+</li>
+</ul>
+</div>
+
+<!-- BACK -->
+<div class="text-center mt-4">
+<a href="/" class="btn btn-secondary">
+⬅ Back to Home
+</a>
+</div>
+
+{% endblock %}

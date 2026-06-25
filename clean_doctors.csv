@@ -1,0 +1,715 @@
+doctor_name,hospital_name,city,state,specialization,phone_number
+Dr Anish Kumar Saha,"Apollo Excelcare, Guwahati",Guwahati,Assam,Nephrology,0361 714 0101
+Dr Taposim Nath,"Apollo Excelcare, Guwahati",Guwahati,Assam,Critical Care & Emergency Medicine : Emergency Medicine,0361 714 0102
+Dr Manoj Kumar Singh,"Apollo Excelcare, Guwahati",Guwahati,Assam,Urology,0361 714 0103
+Dr Namrata Das,"Apollo Excelcare, Guwahati",Guwahati,Assam,Pediatrics,0361 714 0104
+Dr Kritika Agarwal,"Apollo Excelcare, Guwahati",Guwahati,Assam,Psychiatry & Psychology,0361 714 0105
+Dr Indrajit Das,"Apollo Excelcare, Guwahati",Guwahati,Assam,Internal Medicine,0361 714 0106
+Dr Diganta Buragohain,"Apollo Excelcare, Guwahati",Guwahati,Assam,Cardiology,0361 714 0107
+Dr Parag Brahma,"Apollo Excelcare, Guwahati",Guwahati,Assam,Orthopedics,0361 714 0108
+Dr Shankar Roy,"Apollo Excelcare, Guwahati",Guwahati,Assam,Gastroenterologist,0361 714 0109
+Dr Partha Sarathi Saha,"Apollo Excelcare, Guwahati",Guwahati,Assam,Dentistry,0361 714 0110
+Dr. Alissa Maria Varella,Dentalign Multispeciality Dental Clinic and Orthodontic Centre,Panaji,Goa,ORTHODONTICS & DENTOFACIAL SURGERY,9322972363
+Dr Amey Sonavane,Victor Hospital,Madgaon,Goa,Gastroenterology/gi Medicine Specialist,8888884718
+Dr. Deepa Correia,"Hospicio Hospital, Margao",Madgaon,Goa,Sr. Surgeon,9960838269
+Dr. Minaxi Panandikar,"Hospicio Hospital, Margao",Madgaon,Goa,Sr. Gynaecologist,9423062100
+Dr. Edward D'Mello,"Hospicio Hospital, Margao",Madgaon,Goa,Sr. Physician,9422062008
+Dr. Gayatri Kalyanshetty,"Hospicio Hospital, Margao",Madgaon,Goa,Sr. Anaesthetist,9860229972
+"Dr. Ira Almeida,","Hospicio Hospital, Margao",Madgaon,Goa,Sr. Paediatrician,9011025065
+Dr. Mahendra Ghanekar,District Hospital Mapusa,Mapusa,Goa,Senior Gynaecologist,9011930842
+Dr. Shailendra Munj,District Hospital Mapusa,Mapusa,Goa,"Senior Surgeon,",7507965320
+Dr. Swapnil Arsekar,District Hospital Mapusa,Mapusa,Goa,Junior Physician,0832-2262292
+Dr. Swati Mulgaokar,District Hospital Mapusa,Mapusa,Goa,Senior Anaesthetist,9112387670
+Dr. Chetna Khemani,District Hospital Mapusa,Mapusa,Goa,Senior Paediatrician,9920113678
+Smt. Maria Elsa Fernandes,District Hospital Mapusa,Mapusa,Goa,"Matron of North Goa District Hospital, Mapusa",0832-2262292
+Dr. Pramod Verma,Dr Verma Health Centre,Calangute,Goa,Family Physician,7052370522
+Dr. Jasti Naga Haritha,Katuri Medical College And Hospital,Guntur,Andhra Pradesh,General Physician/ Internal Medicine Specialist,8632288555
+Dr. Pavani Ghanta,Sentini Hospital Multispeciality Hospital,Vijayawada,Andhra Pradesh,Obstetrician and Gynaecologist,8666677869
+Dr. J Surendranath,Samatha Multispeciality Hospital,Amaravati,Andhra Pradesh,Paediatrician,9640100800
+Dr. Gokavarapu Yagi Siva Bhaska,Sri Bhaskar Ayurveda Hospital & Panchakarma Center,Guntur,Andhra Pradesh,Samhitha & Siddhanta,9014280952
+Dr. Pavan Kumar Kadiyala,Sri Mind Clinic,Vijayawada,Andhra Pradesh,Psychiatrist,9290704444
+Dr. Swetha Chowdary Atluri,Subham skin and kidney clinic,Vijayawada,Andhra Pradesh,Dermatologist,7569316629
+Dr. Talar Motu,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Medicine,9436631237
+Dr. Rinchin Khandu Thongchi,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Medicine,9436631237
+Dr. Tojum Pakam,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Medicine,9436631237
+Dr. Takar Biyaching,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Medicine,9436631237
+Dr. Santanu Dutta,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Medicine,9436631237
+Dr. Purak Mugli,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Medicine,9436631237
+Dr. Jummo Jini,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Surgery,9436631237
+Dr. Chape Pao,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Surgery,9436631237
+Dr. Millo Tallo,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Surgery,9436631237
+Dr. Tenzin Choiki,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,General Surgery,9436631237
+Dr. Posting Bayeng,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,OBS & Gynecology,9436631237
+Dr. Bengia Chirchi,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,OBS & Gynecology,9436631237
+Dr. Aruna Hage,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,OBS & Gynecology,9436631237
+Dr. Jyoti Kamda,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,OBS & Gynecology,9436631237
+Dr. Manuj Kr. Doley,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Paediatrics,9436631237
+Dr. Tunu Gadi,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Paediatrics,9436631237
+Dr. Tasso Byai,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Paediatrics,9436631237
+Dr. Gemmi Angu,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Paediatrics,9436631237
+Dr. Sukla Das,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Paediatrics,9436631237
+Dr. Hem Chandra Roy,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Paediatrics,9436631237
+Dr. Mechu Kare,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Emergency,9436631237
+Dr. Robin Patir,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Emergency,9436631237
+Dr. Suraj Nada,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Emergency,9436631237
+Dr. Subu Apang,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Emergency,9436631237
+Dr. Aditya Jha,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Emergency,9436631237
+Dr. Anyung Khoda,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Emergency,9436631237
+Dr. M. Basar,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Emergency,9436631237
+Dr. Bomgam Dabi,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Emergency,9436631237
+Dr. Aishwarya Pratap Singh,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Dentistry,9436631237
+Dr. Priya Kandpal,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Dentistry,9436631237
+Dr. Abhishek Prakash Singh,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Dentistry,9436631237
+Dr. Dilip Soring,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Orthopedics,9436631237
+Dr. Kalom Jamoh,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Orthopedics,9436631237
+Dr. Romar Dabu,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Cardiology,9436631237
+Dr.  Chamrak Ampi,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Physiotherapy,9436631237
+Dr. Reni Bayang,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Physiotherapy,9436631237
+Dr. Manju Darrang,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Plastic Surgery,9436631237
+Dr. Daram Tok,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Dermatology,9436631237
+Dr.  Sony Ekke,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Anaesthesiology,9436631237
+Dr.  Millo Apo,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Anaesthesiology,9436631237
+Dr. Tatton Perme,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Pathology,9436631237
+Dr. Purak Mugli,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Endoscopy,9436631237
+Dr. Goto Gangkak,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Urology,9436631237
+Dr. K. Zaman,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,ENT,9436631237
+Dr. Kumkum Bora,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,ENT,9436631237
+Dr. Lido Kamgo,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,ENT,9436631237
+Dr. Lobsang Tsetim,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Opthalmology,9436631237
+Dr. Talum Sorum,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Opthalmology,9436631237
+Dr. Hage Munya,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Opthalmology,9436631237
+Dr. Jummo Jini,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Neuro-Surgery,9436631237
+Dr. Hage Riku Tadu,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Radiology,9436631237
+Dr. Sadananda Borah,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Radiology,9436631237
+Dr. Nani Lampung,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Radiology,9436631237
+Dr. Goto Gangkak,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Urology,9436631237
+Smt. Poonam Agarwal,Ramakrishna Mission Hospital,Itanagar,Arunachal Pradesh,Yoga Therapy,9436631237
+Dr. A R Vikram Sharma,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,General Surgery,7716165656
+Dr. Abbas Naqvi,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,General Medicine,7716165656
+Dr. Abhishek Singh,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Critical Care Medicine,7716165656
+Dr. Ajay Parashar,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,"Urology, Kidney Transplant",7716165656
+Dr. Ajay Shankar Saxena,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Anaesthesia,7716165656
+Dr. Akash Nema,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Psychiatry,7716165656
+Dr. Ankur Singhal,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,"Robot - Assisted Surgery, Orthopaedics",7716165656
+Dr. Apurva Chowdhury,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Emergency Medicine,7716165656
+Dr. Arpit Agarwal,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Neurology,7716165656
+Dr. Bharat Agrawal,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Cardiology,7716165656
+Dr. Charu Sharma,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Medical Gastroenterology,7716165656
+Dr. Chetna Ramani,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Woman & Child Institute,7716165656
+Dr. Girish Kumar Agrawal,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Pulmonology,7716165656
+Dr. Harsh Jain,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Urology,7716165656
+Dr. Hitesh Kumar Dubey,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,"Liver Transplantation and Hepatobiliary Surgery, Surgical Gastroenterology",7716165656
+Dr. Lalit Jain,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Orthopaedics,7716165656
+Dr. Manisa Sahu,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Microbiology,7716165656
+Dr. Naman Jain,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Rheumatology,7716165656
+Dr. Naveen Kumar Jain,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Oncology,7716165656
+Dr. Neha Jain,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Pathology,7716165656
+Dr. Pawan Jain,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Paediatrics,7716165656
+Dr. Sandeep Singhal,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Nephrology,7716165656
+Dr. Sanjeet Jaiswal,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Endocrinology,7716165656
+Dr. Sharad Chandak,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Radiology,7716165656
+Dr. Subhash Sahu,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Plastic Surgery,7716165656
+Dr. Surbhi Chopra,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,ENT,7716165656
+Dr. Sushil Jain,Ramkrishna CARE Hospitals,Raipur,Chhattisgarh,Pulmonology,7716165656
+Dr. Vikas Adil,Dr. J.K. Adil hospital,Bhatapara,Chhattisgarh,Gen Surgery,9827985851
+Dr Mahesh Kesharwani,Aastha Clinic,Baloda Bazar,Chhattisgarh,General,9039129486
+Dr Yogendra Kumar Verma,kilkari Children Hospital,Baloda Bazar,Chhattisgarh,Paediatrician,9752396991
+Surendra Kumar Dibykar,Aadya Hospital,Kasdol,Chhattisgarh,PGMO Surgery,9752402929
+Shashank Singh,shivi hospital,Bilaspur,Chhattisgarh,pediatrician,"7024975770, 7000087824"
+Rajesh Ahuja,Shree Sai Hoapital,Bilaspur,Chhattisgarh,Consultant,9893573000
+Dr. Pawan Jhalta,Regional Hospital Reckong Peo,Reckong Peo,Himachal Pradesh,MS Gynae,8894165985
+Dr. Sonam,Regional Hospital Reckong Peo,Reckong Peo,Himachal Pradesh,MO Gynae,9418606231
+Dr. S.S. Negi,Regional Hospital Reckong Peo,Reckong Peo,Himachal Pradesh,MBBS,9418461072
+Dr. D.G. Negi,Regional Hospital Reckong Peo,Reckong Peo,Himachal Pradesh,MBBS,9459128347
+Dr Ashish Chaba,Regional Hospital Kullu,Kullu,Himachal Pradesh,Gen surgeon,9418413160
+Dr Namit Rathore,Regional Hospital Kullu,Kullu,Himachal Pradesh,Gen surgeon,9805121447
+Dr Anu Sharma,Regional Hospital Kullu,Kullu,Himachal Pradesh,Gynaecologist,9418214578
+Dr Anu Namgiyal,Regional Hospital Kullu,Kullu,Himachal Pradesh,Gynaecologist,9805721447
+Dr Rajeev Shashni,Regional Hospital Kullu,Kullu,Himachal Pradesh,Anaesthesia,9418167157
+Dr Bandana Jaggi,Astha Hospital Pvt.,Mandi,Himachal Pradesh,Gynaecologist,1905243331
+Dr Dechan,Mandav Hospital Pvt.,Mandi,Himachal Pradesh,Gynaecologist,1905221922
+Dr Kapil,Community Health Centre Jogindernagar,Mandi,Himachal Pradesh,Gynaecologist,9418490910
+Dr Birender,Community Health Centre Padhar,Mandi,Himachal Pradesh,Gynaecologist,9418490910
+Dr Ashwani,Community Health Centre Dharampur,Mandi,Himachal Pradesh,Gynaecologist,9418033464
+Dr Suchi,Community Health Centre Sundernagar,Mandi,Himachal Pradesh,Gynaecologist,9418051323
+Dr Pratibha Gupta,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS-Gynae,9736347038
+Dr Amod,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS-Gynae,9418797548
+Dr B R Sahrma,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS-Gynae,9418000193
+Dr Luxmi Agnihotri,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS Surgery,9216932349
+Dr Uma Sharma,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS Surgery,9418382339
+Dr Pranav Kumar Sharma,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS Surgery,8571097952
+Dr Puneet Jain,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS Surgery,8054423418
+Dr Rajan Sood,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS Surgery,9418041662
+Dr Arvind Kanwar,Dr. Yashwant Singh Parmar Government Medical college,Nahan,Himachal Pradesh,MS Surgery,9418472973
+Dr Sudhi Gupta,Civil Hospital Paonta Sahib,Paonta Sahib,Himachal Pradesh,MS-Gynae,9459030800
+Dr D D Sharma,Civil Hospital Paonta Sahib,Paonta Sahib,Himachal Pradesh,MD Radiology,9418086286
+Dr. Ashutosh Charan,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Internal Medicine,+91 73600-33390
+Dr. R. K. Maroo,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,General Surgery,+91 73600-33391
+Dr. Anju Kumar,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Obstetrics,+91 73600-33392
+Dr. Ajit Sahay,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Paediatrics,+91 73600-33393
+Dr. Purva,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Dermatology,+91 73600-33394
+Dr. Pankaj Chaudhary,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Orthopedics,+91 73600-33395
+Dr. Anup Kumar Sahu,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Urology,+91 73600-33396
+Dr. Ajay Chhabra,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Diabetology,+91 73600-33397
+Dr. Varun Kumar,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Cardiology,+91 73600-33398
+Dr. Anil Kumar,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Psychiatry,+91 73600-33399
+Dr. Bhoomika Sachhar,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Clinical Psychology,+91 73600-33400
+Dr. R. K. Jha,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,ENT,+91 73600-33401
+Dr. Tarun Kumar Adukia,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Neurosurgery,+91 73600-33402
+Dr. Arvind C. Mangal,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Nephrology,+91 73600-33403
+Dr. Siddharth Jain Patodi,Santevita Hospital Multi specialty Medical Care,Ranchi,Jharkhand,Paediatrics & Paediatric Gastroenterologist,+91 73600-33404
+Dr. Rahul Kumar,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,Cardiology,+91 8877645555
+Dr. Kunal Kishore,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,Neurology,+91 8877645555
+Dr. Chandan Kr. Saha,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,Gastroenterology,+91 8877645555
+Dr. Pratik Sharan,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,Urology,+91 8877645555
+Dr. Anamika Verma,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,Pulmonology,+91 8877645555
+Dr. Nikhil Drolia,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,Orthopaedic,+91 8877645555
+Dr. Jafar Aqueel,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,Plastic Surgery,+91 8877645555
+Dr. Rahul Kanjilal,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,Nephrology,+91 8877645555
+Dr. Vidisha Drolia (DNB),Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,OBS & GYNAE,+91 8877645555
+Dr. Ajay Patwari,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,DIABETOLOGY,+91 8877645555
+Dr. Marinal Jha,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,PSYCHIATRY,+91 8877645555
+Dr. B.K. Purohit,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,GENERAL SURGERY,+91 8877645555
+Dr. Jayant Chakraborty,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,"ENT (Ear, Nose, Throat)",+91 8877645555
+Dr. Gurcharan Singh,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,OPHTHALMOLOGY,+91 8877645555
+Dr. Sudhir Kumar,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,DENTAL,+91 8877645555
+Dr. Arvind Jha,Patliputra Multispeciality Hospital,Dhanbad,Jharkhand,PEDIATRICS,+91 8877645555
+Dr Yashbir Dewan,Max Super Speciality Hospital,Dehradun,Uttarakhand,Neurosurgery,+91 926 888 0303
+Dr. Shamsher Dwivedee,Max Super Speciality Hospital,Dehradun,Uttarakhand,Neurology,+91 926 888 0303
+Dr. Arvind Makker,Max Super Speciality Hospital,Dehradun,Uttarakhand,Cardiac Thoracic & Vascular Surgery,+91 926 888 0303
+Dr. Luna Pant,Max Super Speciality Hospital,Dehradun,Uttarakhand,Obstetrics & Gynaecology,+91 926 888 0303
+Dr. Vineet Tyagi,Max Super Speciality Hospital,Dehradun,Uttarakhand,Orthopedics,+91 926 888 0303
+Dr. (Col) Daresh Doddamani,Max Super Speciality Hospital,Dehradun,Uttarakhand,Urology,+91 926 888 0303
+Dr. Vishvendra Gaur,Max Super Speciality Hospital,Dehradun,Uttarakhand,General Surgery,+91 926 888 0303
+Dr. Gaurav Gupta,Max Super Speciality Hospital,Dehradun,Uttarakhand,"Orthopaedics & Joint Replacement, Arthroscopy & Sports Injury",+91 926 888 0303
+Dr. Rashmi Varshney Gupta,Max Super Speciality Hospital,Dehradun,Uttarakhand,Laparoscopic / Obstetrics And Gynaecology,+91 926 888 0303
+Dr (Col) Adnan Masood,Max Super Speciality Hospital,Dehradun,Uttarakhand,Internal Medicine,+91 926 888 0303
+Dr. Preeti Sharma,Max Super Speciality Hospital,Dehradun,Uttarakhand,Cardiology,+91 926 888 0303
+Dr. Astha Agrawal,Max Super Speciality Hospital,Dehradun,Uttarakhand,Pediatrics,+91 926 888 0303
+Dr. Shantanu Belwal,Max Super Speciality Hospital,Dehradun,Uttarakhand,"Pulmonology, Critical Care",+91 926 888 0303
+Dr. Anupal Deka,Max Super Speciality Hospital,Dehradun,Uttarakhand,"ENT(Ear Nose Throat), Head & Neck Oncology, Audiology",+91 926 888 0303
+Dr. Runu Sharma,Max Super Speciality Hospital,Dehradun,Uttarakhand,Medical Oncology,+91 926 888 0303
+Dr. Saloni Gupta,Max Super Speciality Hospital,Dehradun,Uttarakhand,Senior Psychologist,+91 926 888 0303
+Dr Saurabh Kumar Rai,Max Super Speciality Hospital,Dehradun,Uttarakhand,Interventional Radiology,+91 926 888 0303
+Dr Richa Chopra,Max Super Speciality Hospital,Dehradun,Uttarakhand,Dermatology,+91 926 888 0303
+Dr. Shobit Garg,Max Super Speciality Hospital,Dehradun,Uttarakhand,Psychiatry,+91 926 888 0303
+Ms Neha Gupta,Max Super Speciality Hospital,Dehradun,Uttarakhand,Psychologist,+91 926 888 0303
+Dr. Somya Jain,Max Super Speciality Hospital,Dehradun,Uttarakhand,Rheumatology,+91 926 888 0303
+Dr Rakesh Kalra,Max Super Speciality Hospital,Dehradun,Uttarakhand,Aesthetic & Reconstructive Surgery,+91 926 888 0303
+Dr. BM Vinod Kumar,Max Super Speciality Hospital,Dehradun,Uttarakhand,Eye Care / Ophthalmology,+91 926 888 0303
+Dr. Pradeep Pandey,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,Ortho,7500408060
+Dr. P.S. TAKULI,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,GENERAL MEDICINE (PHYSICIAN),7500408060
+Dr. R S Kunwar,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,Senior Surgeon,7500408060
+DR. AMRITA MAKHIJA,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,OBSTETRIC AND GYNECOLOGY,7500408060
+DR. AKSHAT TAMTA,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,DERMATOLOGIST AND COSMOLOGISTS,7500408060
+DR. VIRENDRA PANGTEY,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,GENERAL AND LAPAROSCOPIC SURGEON,7500408060
+DR. AKHILESH JOSHI,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,NEUROSURGERY,7500408060
+DR. PRIYANKA PANT,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,PLASTIC SURGEON,7500408060
+DR. POONAM MAHESH (MD),Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,Dental BDS,7500408060
+DR. SAGAR PUNETHA,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,ANAESTHESIA,7500408060
+Dr. H.S. BHANDARI,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,NEPHROLOGIST,7500408060
+Dr. A.K Pandey,Mattrix Hospital & Accident Care,Haldwani,Uttarakhand,Consultant Physiotherapist (EX-ARMY) BPT,7500408060
+"DR. RAVINDRA KUMAR (M.B.B.S, DNB)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,GENERAL MEDICINE,99970 89000
+"DR. ANURAG GARG (M.B.B.S, M.S, MCH)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,UROLOGY,99970 89000
+"DR. DEEPAK SEMWAL (M.B.B.S, M.S)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,ORTHOPAEDICS,99970 89000
+"DR. RAMNEIK MANGLIK (M.B.B.S, M.S)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,GENERAL SURGERY,99970 89000
+"DR. SHWETA SAINI (M.B.B.S, DNB)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,GYNAECOLOGY,99970 89000
+"DR. PRAKASH CHANDRA PANDEY (M.B.B.S, DMRD)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,RADIOLOGY,99970 89000
+"DR. ANKIT DESHWAL (M.B.B.S, M.D)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,PULMONOLOGY,99970 89000
+"DR. ROHIT KUMAR (M.B.B.S, M.S, DNB)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,NUERO SURGERY,99970 89000
+"DR. DHARAMVEER SINGH (M.B.B.S, M.D)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,ANAESTHESIOLOGY,99970 89000
+"DR. MADHULIKA (M.B.B.S, M.D)",Quadra Multispecialty Hospital,Roorkee,Uttarakhand,PATHOLOGY,99970 89000
+DR. KARTIKEY SINGH (M.B.B.S),Quadra Multispecialty Hospital,Roorkee,Uttarakhand,M.O. (Medical Officer),99970 89000
+DR.SHAVEJ ALAM (B.A.M.S),Quadra Multispecialty Hospital,Roorkee,Uttarakhand,R.M.O. (Resident Medical Officer),99970 89000
+DR. SWATI AGARWAL (B.A.M.S),Quadra Multispecialty Hospital,Roorkee,Uttarakhand,R.M.O. (Resident Medical Officer),99970 89000
+DR. KIRTI VARDHAN TYAGI (B.A.M.S),Quadra Multispecialty Hospital,Roorkee,Uttarakhand,R.M.O. (Resident Medical Officer),99970 89000
+DR.ANAS KHAN (B.A.M.S),Quadra Multispecialty Hospital,Roorkee,Uttarakhand,R.M.O. (Resident Medical Officer),99970 89000
+Dr. Arke,Raj Medicity,Imphal,Manipur,PHYSCIAN,+91 841 386 4113
+Dr. AK. Bishorjit,Raj Medicity,Imphal,Manipur,PHYSCIAN,+91 841 386 4114
+Dr. K. Guigwangngam,Raj Medicity,Imphal,Manipur,GENERAL SURGERY,+91 841 386 4115
+Dr. Potsangbam Latsaheb Singh,Raj Medicity,Imphal,Manipur,ORTHOPAEDICS,+91 841 386 4116
+Dr. Solemn Thoudam,Raj Medicity,Imphal,Manipur,ORTHOPAEDICS,+91 841 386 4117
+Dr. Mayanglambam Amitkumar,Raj Medicity,Imphal,Manipur,NEURO SURGERY,+91 841 386 4118
+Dr. Lourembam Sunil Singh,Raj Medicity,Imphal,Manipur,SURGICAL ONCOLOGY,+91 841 386 4119
+Dr. Nameirakpam Shantajit,Raj Medicity,Imphal,Manipur,UROLOGY,+91 841 386 4120
+Dr. Ksh. Kala Singh,Raj Medicity,Imphal,Manipur,CTVS,+91 841 386 4121
+Dr. Laishram Sukumar Singh,Raj Medicity,Imphal,Manipur,OBST. & GYNAE,+91 841 386 4122
+Dr. Huidrom Ranjit Singh,Raj Medicity,Imphal,Manipur,OBST. & GYNAE,+91 841 386 4123
+Dr (Major) L. Bishwajit Singh,Raj Medicity,Imphal,Manipur,OBST. & GYNAE,+91 841 386 4124
+Dr. S. Raghumani Singh,Raj Medicity,Imphal,Manipur,ENT,+91 841 386 4125
+Dr. RK. Kumarjit,Raj Medicity,Imphal,Manipur,PSYCHIATRIC,+91 841 386 4126
+Ph. Verenia,Raj Medicity,Imphal,Manipur,DIETICIAN,+91 841 386 4127
+Ningombam Basanta Meetei,Raj Medicity,Imphal,Manipur,PHYSIOTHERAPY,+91 841 386 4128
+Mr Kh Sunder,Shija Hospitals and Research Institute,Imphal,Manipur,Audiology & Speech - Language Pathology,9007900794
+Dr Y Lokendra,Shija Hospitals and Research Institute,Imphal,Manipur,Audiology & Speech - Language Pathology,9007900794
+Dr Tolongkhomba P,Shija Hospitals and Research Institute,Imphal,Manipur,Audiology & Speech - Language Pathology,9007900794
+Dr Erika Salam,Shija Hospitals and Research Institute,Imphal,Manipur,Dermatology,9007900794
+Dr Anupama W,Shija Hospitals and Research Institute,Imphal,Manipur,Dermatology,9007900794
+Ms Pushpa L,Shija Hospitals and Research Institute,Imphal,Manipur,Dietetics & Nutrition,9007900794
+Dr Niteshore M,Shija Hospitals and Research Institute,Imphal,Manipur,Dietetics & Nutrition,9007900794
+Dr Medhabati T,Shija Hospitals and Research Institute,Imphal,Manipur,Dietetics & Nutrition,9007900794
+Dr Sonee Th,Shija Hospitals and Research Institute,Imphal,Manipur,ENT,9007900794
+Dr Anupama Y,Shija Hospitals and Research Institute,Imphal,Manipur,ENT,9007900794
+Dr Rajlakshmi Kh,Shija Hospitals and Research Institute,Imphal,Manipur,ENT,9007900794
+Dr Narendra P,Shija Hospitals and Research Institute,Imphal,Manipur,ENT,9007900794
+Dr Kulachandra M,Shija Hospitals and Research Institute,Imphal,Manipur,ENT,9007900794
+Dr Robinson Ningshen,Shija Hospitals and Research Institute,Imphal,Manipur,General Medicine,9007900794
+Dr Birendra Ksh,Shija Hospitals and Research Institute,Imphal,Manipur,General Medicine,9007900794
+Dr Chakshu,Shija Hospitals and Research Institute,Imphal,Manipur,General Medicine,9007900794
+Dr Sareeta N,Shija Hospitals and Research Institute,Imphal,Manipur,General Medicine,9007900794
+Dr. Devendra Kh.,Shija Hospitals and Research Institute,Imphal,Manipur,General Surgery,9007900794
+Dr. Chandragupta Ch.,Shija Hospitals and Research Institute,Imphal,Manipur,General Surgery,9007900794
+Dr.Ajit Lukram(Shija Breast & Thyroid Clinic),Shija Hospitals and Research Institute,Imphal,Manipur,General Surgery,9007900794
+Dr. Sinkhol L.,Shija Hospitals and Research Institute,Imphal,Manipur,Obstetrics & Gynaecology,9007900794
+Dr. Paikhomba Kh.,Shija Hospitals and Research Institute,Imphal,Manipur,Obstetrics & Gynaecology,9007900794
+Dr. Subodha N.,Shija Hospitals and Research Institute,Imphal,Manipur,Obstetrics & Gynaecology,9007900794
+Dr. Dhaneshwor Ph.,Shija Hospitals and Research Institute,Imphal,Manipur,Obstetrics & Gynaecology,9007900794
+Dr. Dipenty L.,Shija Hospitals and Research Institute,Imphal,Manipur,Obstetrics & Gynaecology,9007900794
+Dr. Gyaneshowri L.,Shija Hospitals and Research Institute,Imphal,Manipur,Obstetrics & Gynaecology,9007900794
+Dr. Amrita I.,Shija Hospitals and Research Institute,Imphal,Manipur,Obstetrics & Gynaecology,9007900794
+Dr. Guneshwar O.,Shija Hospitals and Research Institute,Imphal,Manipur,Orthopaedics,9007900794
+Dr. Iboyaima Ph.,Shija Hospitals and Research Institute,Imphal,Manipur,Orthopaedics,9007900794
+Dr. Robium N.,Shija Hospitals and Research Institute,Imphal,Manipur,Orthopaedics,9007900794
+Dr. Kanchana L.,Shija Hospitals and Research Institute,Imphal,Manipur,Orthopaedics,9007900794
+Dr. Romen K.,Shija Hospitals and Research Institute,Imphal,Manipur,Ophthalmology,9007900794
+Dr. Noornika Kh.,Shija Hospitals and Research Institute,Imphal,Manipur,Ophthalmology,9007900794
+Dr. Sarda Ch.,Shija Hospitals and Research Institute,Imphal,Manipur,Ophthalmology,9007900794
+Dr. Dinakumar Y.,Shija Hospitals and Research Institute,Imphal,Manipur,Ophthalmology,9007900794
+Dr. Holmes N.,Shija Hospitals and Research Institute,Imphal,Manipur,Ophthalmology,9007900794
+Dr. Aphreno Sothu,Shija Hospitals and Research Institute,Imphal,Manipur,Ophthalmology,9007900794
+Dr. Yurica M.,Shija Hospitals and Research Institute,Imphal,Manipur,Ophthalmology,9007900794
+Dr. Sachikumar Kh.,Shija Hospitals and Research Institute,Imphal,Manipur,Paediatrics,9007900794
+Dr. Sarita B.,Shija Hospitals and Research Institute,Imphal,Manipur,Paediatrics,9007900794
+Dr. Meenakshi M.,Shija Hospitals and Research Institute,Imphal,Manipur,Paediatrics,9007900794
+Dr. Darendrajit L.,Shija Hospitals and Research Institute,Imphal,Manipur,PMR (Physical Medicine & Rehabilitation),9007900794
+Mrs. Suchitra Kh.,Shija Hospitals and Research Institute,Imphal,Manipur,Physiotherapy & Rehabilitation,9007900794
+Dr. Heramani N.,Shija Hospitals and Research Institute,Imphal,Manipur,Psychiatry,9007900794
+Dr. Chaoba S.,Shija Hospitals and Research Institute,Imphal,Manipur,Psychiatry,9007900794
+Dr. Meesha H.,Shija Hospitals and Research Institute,Imphal,Manipur,Psychiatry,9007900794
+Dr. Yohen N.,Shija Hospitals and Research Institute,Imphal,Manipur,Reproductive Medicine(Infertility),9007900794
+Dr. Bidyalakshmee Y.,Shija Hospitals and Research Institute,Imphal,Manipur,Respiratory Medicine,9007900794
+Dr. Devina L.,Shija Hospitals and Research Institute,Imphal,Manipur,Shija Dental Langol,9007900794
+Dr. Gitson N.,Shija Hospitals and Research Institute,Imphal,Manipur,Shija Dental Langol,9007900794
+Dr. Nicky Thiyam,Shija Hospitals and Research Institute,Imphal,Manipur,Shija Dental Langol,9007900794
+Dr. Wandamon B. Makdoh,Bethany Hospital,Shillong,Meghalaya,Anesthesiology,18008896050
+Dr. Rebecca L. Fanai,Bethany Hospital,Shillong,Meghalaya,Anesthesiology,18008896050
+Dr. Marchang Lanleila,Bethany Hospital,Shillong,Meghalaya,Anesthesiology,18008896050
+Dr. Sungdirenla Jamir,Bethany Hospital,Shillong,Meghalaya,Biochemistry,18008896050
+Dr. Synrang B. Warjri,Bethany Hospital,Shillong,Meghalaya,Cardiology,18008896050
+Dr. Aalok Puri,Bethany Hospital,Shillong,Meghalaya,Orthodontics & Dentistry,18008896050
+Dr. Zulfiquer H. Hazarika,Bethany Hospital,Shillong,Meghalaya,"ENT, Head & Neck Surgery",18008896050
+Dr. A. J. Ghosh,Bethany Hospital,Shillong,Meghalaya,"ENT, Head & Neck Surgery",18008896050
+Dr. Mebanshanbor Garod,Bethany Hospital,Shillong,Meghalaya,General & Laparoscopic Surgery,18008896050
+Dr. Pallab Paul,Bethany Hospital,Shillong,Meghalaya,General & Laparoscopic Surgery,18008896050
+Dr. Hampher Kynjing,Bethany Hospital,Shillong,Meghalaya,General & Laparoscopic Surgery,18008896050
+Dr. Teiborlang Rymbai,Bethany Hospital,Shillong,Meghalaya,Internal Medicine,18008896050
+Dr. Isaac N. R. Shira,Bethany Hospital,Shillong,Meghalaya,Internal Medicine,18008896050
+Dr. Pyntyllilang Sanmiet,Bethany Hospital,Shillong,Meghalaya,Internal Medicine,18008896050
+Dr. David D. Tariang,Bethany Hospital,Shillong,Meghalaya,Internal Medicine,18008896050
+Dr. Ibandalin M. Shangpliang,Bethany Hospital,Shillong,Meghalaya,Internal Medicine,18008896050
+Dr. Adorable M. Kharbamon,Bethany Hospital,Shillong,Meghalaya,Internal Medicine,18008896050
+Dr. Mahesh Chengappa,Bethany Hospital,Shillong,Meghalaya,Internal Medicine,18008896050
+Dr. Lamkordor Tyngkan,Bethany Hospital,Shillong,Meghalaya,Neurosurgery,18008896050
+Dr. Nabajyoti Baishya,Bethany Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,18008896050
+Dr. Clarinda E. Khongwar,Bethany Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,18008896050
+Dr. Shailinia Syiem,Bethany Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,18008896050
+Dr. Rida P. Nongrum,Bethany Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,18008896050
+Dr. Kerlin Mihsill,Bethany Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,18008896050
+Dr. Lucilvia Kharjana,Bethany Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,18008896050
+Dr. Marina N. Shylla,Bethany Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,18008896050
+Dr. Sharon U. Lyngdoh,Bethany Hospital,Shillong,Meghalaya,Oncology,18008896050
+Dr. Pallab Dewan,Bethany Hospital,Shillong,Meghalaya,Ophthalmology,18008896050
+Dr. Valencia Myrboh,Bethany Hospital,Shillong,Meghalaya,Orthopedics,18008896050
+Dr. Jerryson Bareh,Bethany Hospital,Shillong,Meghalaya,Orthopedics,18008896050
+Dr. Darilin M. Shangpliang,Bethany Hospital,Shillong,Meghalaya,Pathology,18008896050
+Dr. Pakha Tesia,Bethany Hospital,Shillong,Meghalaya,Psychiatry,18008896050
+Dr. Uma A. Ghosh,Bethany Hospital,Shillong,Meghalaya,Pediatrics & Neonatology,18008896050
+Dr. Bajopthiaw Kharsyntiew,Bethany Hospital,Shillong,Meghalaya,Pediatrics & Neonatology,18008896050
+Dr. Balarisa Synrem,Bethany Hospital,Shillong,Meghalaya,Pediatrics & Neonatology,18008896050
+Dr. Rickey Shylla,Bethany Hospital,Shillong,Meghalaya,Physiotherapy & Rehabilitation,18008896050
+Dr. I. Diangti Tariang,Bethany Hospital,Shillong,Meghalaya,Physiotherapy & Rehabilitation,18008896050
+Dr. Sonarika D. Khonglah,Bethany Hospital,Shillong,Meghalaya,Physiotherapy & Rehabilitation,18008896050
+Dr. Stephanson Pohlong,Bethany Hospital,Shillong,Meghalaya,Radiology & Imaging,18008896050
+Dr. Rebekah L. I. Kharsaithiang,Bethany Hospital,Shillong,Meghalaya,Radiology & Imaging,18008896050
+Dr. Anupam Goswami,Bethany Hospital,Shillong,Meghalaya,Radiology & Imaging,18008896050
+Dr. Baatiston D. Waanbah,Bethany Hospital,Shillong,Meghalaya,Reproductive Medicine,18008896050
+Dr. Himjyoti Das,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224052
+Dr. Nayansikha Das,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224053
+Dr. W. Earnestly Roy Sohkhi,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224054
+Dr. Bibhuti Talukdar,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224055
+Dr. Yarilang Rozanna Syiem,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224056
+Dr. Nirmal Kr. Tudu,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224057
+Dr. Minlun Chongloi,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224058
+Dr. Puraeky Kyndiah,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224059
+Dr. Debraj Debbarma,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224060
+Dr. Vinileki Nongtdu,Nazareth Hospital,Shillong,Meghalaya,Anaesthesiology & Critical Care,+91 364 2224061
+Dr. Kesham Gojen Singh,Nazareth Hospital,Shillong,Meghalaya,Accident & Emergency,+91 364 2224062
+Dr. Surajit Debbarma,Nazareth Hospital,Shillong,Meghalaya,Accident & Emergency,+91 364 2224063
+Dr. Sophia Pamei,Nazareth Hospital,Shillong,Meghalaya,Accident & Emergency,+91 364 2224064
+Dr. Jaminda Langhu,Nazareth Hospital,Shillong,Meghalaya,Accident & Emergency,+91 364 2224065
+Dr. Sidhartha Mandal,Nazareth Hospital,Shillong,Meghalaya,Accident & Emergency,+91 364 2224066
+Dr. Synrang B. Warjri,Nazareth Hospital,Shillong,Meghalaya,Cardiology,+91 364 2224067
+Dr. Maya-I-Ka L. Laloo,Nazareth Hospital,Shillong,Meghalaya,Dentistry,+91 364 2224068
+Dr. Debomallya Bhuyan,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224069
+Dr. Barnali Bhuyan,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224070
+Dr. Arijit Kumar Das,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224071
+Dr. Mesashebha Rupsi,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224072
+Dr. Rintu Marak,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224073
+Dr. Rosa Dora Kyndiah,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224074
+Dr. Mary B. Marbaniang,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224075
+Dr. Gwendalin Nongbet,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224076
+Dr. Paul L. Dkhar,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224077
+Dr. Rikyntilin Wahlang,Nazareth Hospital,Shillong,Meghalaya,General Medicine,+91 364 2224078
+Dr. G. Rangad,Nazareth Hospital,Shillong,Meghalaya,General Surgery,+91 364 2224079
+Dr. Alfred Lepcha,Nazareth Hospital,Shillong,Meghalaya,General Surgery,+91 364 2224080
+Dr. Jayanta Kumar Das,Nazareth Hospital,Shillong,Meghalaya,General Surgery,+91 364 2224081
+Dr. Geoffrey Donkupar Kharmutee,Nazareth Hospital,Shillong,Meghalaya,General Surgery,+91 364 2224082
+Dr. Thangtinlal Lhoujem,Nazareth Hospital,Shillong,Meghalaya,General Surgery,+91 364 2224083
+Dr. Diana Lalnunpuii,Nazareth Hospital,Shillong,Meghalaya,General Surgery,+91 364 2224084
+Dr. Md. S. Islam,Nazareth Hospital,Shillong,Meghalaya,General Surgery,+91 364 2224085
+Dr. Frankie L. Shadap Siangshai,Nazareth Hospital,Shillong,Meghalaya,Neurosurgery,+91 364 2224086
+Dr. Arnab Kumar Roy,Nazareth Hospital,Shillong,Meghalaya,Neurosurgery,+91 364 2224087
+Dr. Syed Zoharul Alam,Nazareth Hospital,Shillong,Meghalaya,Neurosurgery,+91 364 2224088
+Dr. Indrani Roy,Nazareth Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,+91 364 2224089
+Dr. Neelotparna Saikia,Nazareth Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,+91 364 2224090
+Dr. Talitha Ezara Dkhar,Nazareth Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,+91 364 2224091
+Dr. Esther R.D Liani,Nazareth Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,+91 364 2224092
+Dr. Shichin D.H. Dhar Sohliya,Nazareth Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,+91 364 2224093
+Dr. Nivedita Malik,Nazareth Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,+91 364 2224094
+Dr. Balsri Ch Marak,Nazareth Hospital,Shillong,Meghalaya,Obstetrics & Gynaecology,+91 364 2224095
+Dr. Hiranmoyee Das,Nazareth Hospital,Shillong,Meghalaya,Ophthalmology,+91 364 2224096
+Dr. Sr. Immaculate,HOLY CROSS HOSPITAL,Tura,Meghalaya,Medical Superintendent,7628806465
+Dr. Monchi R Marak,HOLY CROSS HOSPITAL,Tura,Meghalaya,Family Medicine & Sonologist,7628806465
+Dr. Michael Keenea G. Momin,HOLY CROSS HOSPITAL,Tura,Meghalaya,Paediatrician,7628806465
+Dr. C. Birimong Yimchunger,HOLY CROSS HOSPITAL,Tura,Meghalaya,Orthopedics & Family Medicine,7628806465
+Dr. Tsarangpi A. Sangtam,HOLY CROSS HOSPITAL,Tura,Meghalaya,Emergency Physician,7628806465
+Dr. Nyana,HOLY CROSS HOSPITAL,Tura,Meghalaya,Gynae and Obs,7628806465
+Dr. Aklima,HOLY CROSS HOSPITAL,Tura,Meghalaya,Gynae and Obs,7628806465
+Dr. Arzumand,HOLY CROSS HOSPITAL,Tura,Meghalaya,Gynae and Obs,7628806465
+Dr.Dankskee,HOLY CROSS HOSPITAL,Tura,Meghalaya,Gynae and Obs,7628806465
+Dr. Nathalia,HOLY CROSS HOSPITAL,Tura,Meghalaya,General Medicine,7628806465
+Dr.Mokbul,HOLY CROSS HOSPITAL,Tura,Meghalaya,Orthopedic,7628806465
+Dr.Wanphalang,HOLY CROSS HOSPITAL,Tura,Meghalaya,Pediatrics,7628806465
+Dr.Maidul,HOLY CROSS HOSPITAL,Tura,Meghalaya,Pediatrics,7628806465
+Dr Doris Hmingthanzami,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Anesthesiology & Critical Care,8415921575 \ 9426744550
+Dr Lalrinawmi Chhangte,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Anesthesiology & Critical Care,8415921575 \ 9426744550
+Dr Bathsheba Lalnuntawmi,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Anesthesiology & Critical Care,8415921575 \ 9426744550
+Dr HD Lalengkima,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Anesthesiology & Critical Care,8415921575 \ 9426744550
+Dr Rualthankhuma Renthlei,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,ENT,8415921575 \ 9426744550
+Dr K Lalruatkimi,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,ENT,8415921575 \ 9426744550
+Dr Samuel Lalhruaitluanga,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,ENT,8415921575 \ 9426744550
+Dr R Lalrindiki,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Ophthalmology,8415921575 \ 9426744550
+Dr Lalramengmawii,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Ophthalmology,8415921575 \ 9426744550
+Dr Regina Lalramhluni,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Ophthalmology,8415921575 \ 9426744550
+Dr Mac Malsawmtluanga,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Ophthalmology,8415921575 \ 9426744550
+Dr R Lalrammuana,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,General & Laparoscopic Surgery,8415921575 \ 9426744550
+Dr Joseph Lalhmachhuana,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,General Medicine,8415921575 \ 9426744550
+Dr S Parmawii,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,General Medicine,8415921575 \ 9426744550
+Dr.R.L.Sanghluna,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,"HIV,Substance Abuse and Palliative Care",8415921575 \ 9426744550
+Dr.Lalchhanhima Ralte,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,"HIV,Substance Abuse and Palliative Care",8415921575 \ 9426744550
+Dr K Lalremmawia,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Obstetrics and Gynaecology,8415921575 \ 9426744550
+Dr Lalthakimi Darngawn,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Obstetrics and Gynaecology,8415921575 \ 9426744550
+Dr Vanlalkima,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Obstetrics and Gynaecology,8415921575 \ 9426744550
+Dr Lalthakima,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Orthopaedics,8415921575 \ 9426744550
+Dr Lalmalsawmi Ralte,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Orthopaedics,8415921575 \ 9426744550
+Dr John Malsawma,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Paediatrics,8415921575 \ 9426744550
+Dr Samuel Sailo,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Paediatrics,8415921575 \ 9426744550
+Dr Lalnunnemi,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Pathology,8415921575 \ 9426744550
+Dr R Lalremruata,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Microbiology,8415921575 \ 9426744550
+Dr Carolyne Lallawmzuali,Synod Hospital multispeciality Hospital,Aizawl,Mizoram,Pathology,8415921575 \ 9426744550
+Dr. Lalthanglawta,"District Hospital, Champhai",Champhai,Mizoram,MBBS,9862616688
+Dr. Zatluanga,"District Hospital, Champhai",Champhai,Mizoram,Pathology,9436145254
+Dr. Vanlalremsanga,"District Hospital, Champhai",Champhai,Mizoram,Obstetrics and Gynaecology,9612157649
+Dr. J. Lalramchhuanga,"District Hospital, Champhai",Champhai,Mizoram,General Medicine,9612894678
+Dr. James RE Mawia,"District Hospital, Kolasi",Kolasib,Mizoram,Obstetrics and Gynaecology,9862883439
+Dr. B. Lalduhawma,"District Hospital, Lawngtlai",Lawngtlai,Mizoram,Obstetrics and Gynaecology,8731873483
+Dr. Zolianthanga,"District Hospital, Lunglei",Lunglei,Mizoram,Biochemistry,9436144385
+Dr. Laldinmawii,"District Hospital, Lunglei",Lunglei,Mizoram,Ophthalmology,9436147033
+Dr. Catherine Lalmuanawmi,"District Hospital, Lunglei",Lunglei,Mizoram,Radiotherapy,9436352497
+Dr. Lucy Ramhmingliani,"District Hospital, Lunglei",Lunglei,Mizoram,Pathology,8974237123
+Dr. Joseph Lalrindika Chawng,"District Hospital, Lunglei",Lunglei,Mizoram,Orthopaedics,9436157728
+Dr. Lalfakzuala Renthlei,"District Hospital, Lunglei",Lunglei,Mizoram,CHEST MEDICINE,9862816040
+Dr. LV VL Chhanhimi,"District Hospital, Lunglei",Lunglei,Mizoram,Obstetrics and Gynaecology,9436142635
+Dr. Zonunsangi,"District Hospital, Mamit",Mamit,Mizoram,ENT,9436361503
+Dr. C. Lalrosanga,"District Hospital, Saiha",Saiha,Mizoram,General Surgery,9436151752
+Dr. C. Lalthantluanga,"District Hospital, Saiha",Saiha,Mizoram,Obstetrics and Gynaecology,9612165147
+Dr. Samuel Lalfakawma,"District Hospital, Saiha",Saiha,Mizoram,Paediatrics,9862091005
+Dr. ZD Lalmuanawma,"District Hospital, Serchhip",Serchhip,Mizoram,Ophthalmology,9862294782
+Dr. Rita Zoramthari,"District Hospital, Serchhip",Serchhip,Mizoram,ENT,9436198056
+Dr. Lalnunhlima Khiangte,"District Hospital, Serchhip",Serchhip,Mizoram,MBBS,9436146116
+Dr. Laltharzeli Fanai,"District Hospital, Serchhip",Serchhip,Mizoram,Obstetrics and Gynaecology,9862522527
+Dr. Lalthakimi Darngawn,Durtlang Hospital,Aizawl,Mizoram,Obstetrics and Gynaecology,9089713361
+Dr. K. Lalremmawia,Durtlang Hospital,Aizawl,Mizoram,Obstetrics and Gynaecology,9089713361
+Dr. Linda Sailo,Bethesda Hospital,Aizawl,Mizoram,Obstetrics and Gynaecology,9436143503
+Dr. Eileen Lalrinpuii,Bethesda Hospital,Aizawl,Mizoram,Obstetrics and Gynaecology,9436143503
+Dr. B. Zonunsanga,Lairam Christian Medical Centre,Lawngtlai,Mizoram,General Surgery,8413811331
+Dr. LH. Lalrammawia,Serkawn Christian Hospital,Lunglei,Mizoram,Obstetrics and Gynaecology,9436157663
+Dr. B. Laldinliana,Serkawn Christian Hospital,Lunglei,Mizoram,General Surgery,9436147477
+Dr. S. Kuotsutho,"District Hospital, Dimapur",Dimapur,Nagaland,Gynaecology,8014902784
+Dr. S. Kuotsutho,Naga Hospital Authority Kohima,Kohima,Nagaland,Gynaecology,9436005361
+Dr. Abi K Angami,Naga Hospital Authority Kohima,Kohima,Nagaland,Obstetrics and Gynaecology,9436007248
+Dr. Yetovi,District Hospital Kiphire,Kiphire,Nagaland,Gynaecology,8974058183
+Dr. Lawrence,District Hospital Kiphire,Kiphire,Nagaland,MBBS,8974200849
+Dr. Imnamreren Phom,"District Hospital , Medical Ward, Longleng",Longleng,Nagaland,Gynaecology,8729926634
+Dr.Supongmeren,District Hospital,Mon,Nagaland,Gynaecology,9402697168
+Dr. Aman Konyak,District Hospital,Mon,Nagaland,Gynaecology,8413077801
+Dr. Azo,District Hospital,Phek,Nagaland,Gynaecology,9436009531
+Dr. Lhishelo,Primary Health Centre,Phek,Nagaland,MBBS,9089424227
+Dr. Nounenuo Terhase,"District Hospital,wokha",Wokha,Nagaland,Gynaecology,9862124045
+Dr. Emmanuel,"Community Health Centre, Bhandari",Wokha,Nagaland,Gynaecology,9612711053
+Dr. L.A Kikon,"Community Health Centre, Bhandari",Wokha,Nagaland,Gynaecology,9436004911
+Dr. Tritingla,"District Hospital,Tuensang",Tuensang,Nagaland,Gynaecology,8974635372
+Dr. Reho,"District Hospital,Tuensang",Tuensang,Nagaland,General Surgery,8974635372
+Dr. Akaho,"District Hospital, Zunheboto",Zunheboto,Nagaland,General Physician,9862689920
+Dr. Nitovi Shikhu,"District Hospital, Zunheboto",Zunheboto,Nagaland,MBBS ( Community Medicine),9402992813/8731802322
+Dr. Aron Murru,"District Hospital, Zunheboto",Zunheboto,Nagaland,MBBS,9436216291/8414829333
+Dr. Shevosa Vese,"District Hospital, Zunheboto",Zunheboto,Nagaland,MBBS (Surgeon),8974228855
+Dr. Mughalu Achumi,"District Hospital, Zunheboto",Zunheboto,Nagaland,MBBS,8258846501
+DR. RENCHAMO KIKON,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,GENERAL & PEDIATRIC SURGERY,9366451969
+DR. PENRITHUNG EZUNG,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,OBSTETRICS & GYNAECOLOGY,9366451969
+DR. MHONTHUNG MURRY,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,RADIODIAGNOSIS,9366451969
+DR. E. MHABEMO OVUNG,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,DERMATOLOGY & VENEREOLOGY,9366451969
+DR. ATSUNGBA AIER,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,GENERAL & LAPAROSCOPIC SURGERY,9366451969
+DR. RENDEMO SHITIRI,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,PATHOLOGY,9366451969
+DR. DAILI ATHIKHO,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,INTERNAL MEDICINE & CARDIOLOGY,9366451969
+DR. NEITHONGULIE PIENYU,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,ANESTHESIOLOGY & INTENSIVE CARE,9366451969
+DR. IMLITEMSU,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,GENERAL & LAPAROSCOPIC SURGERY,9366451969
+DR. E. MHABENI EZUNG,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,OBSTETRICS & GYNAECOLOGY,9366451969
+DR. NISHINI HEKHA,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,RADIODIAGNOSIS,9366451969
+DR. AKUMTOSHI,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,PAEDIATRICS & NEONATOLOGY,9366451969
+DR. IMKONGKUMZUK PONGENER,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,PAEDIATRICS & NEONATOLOGY,9366451969
+DR. SASHI WALLING T.,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,GENERAL & LAPAROSCOPIC SURGERY,9366451969
+DR. N. BENTHUNGO TUNGOE,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,ORTHOPAEDICS,9366451969
+DR. MANONG CHOWANGLIM,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,NEPHROLOGY,9366451969
+DR. TEPUKIEL ZAPHU,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,UROLOGY,9366451969
+DR. LEONARD J. EZUNG,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,GENERAL & PEDIATRIC SURGERY,9366451969
+DR. UTINA KICHU,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,INTERNAL MEDICINE,9366451969
+DR.SENTICHUBA LONGCHAR,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,ANESTHESIOLOGY & INTENSIVE CARE,9366451969
+DR.LIJANTHUNG S KITHAN,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,PATHOLOGY,9366451969
+DR. SAMUEL NOKLANG,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,INTERNAL MEDICINE & CARDIOLOGY,9366451969
+DR. GANGODA NINGSANG,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,DENTISTRY,9366451969
+DR. RENABENI KIKON,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,PEDIATRIC & PREVENTIVE DENTISTRY,9366451969
+DR. ARENLA TALI,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,PALLIATIVE MEDICINE & EMERGENCY,9366451969
+DR IMNAINLA AMUR,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,EMERGENCY,9366451969
+DRS. ASUSA PIKU,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,EMERGENCY,9366451969
+DR MERANGTSULAK AO,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,EMERGENCY,9366451969
+DR KEKHRIE,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,EMERGENCY,9366451969
+DR BOTOVI CHISHI,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,EMERGENCY,9366451969
+DR PONGJASOBA JAMIR,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,EMERGENCY,9366451969
+DR CISAHU DOZO,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,EMERGENCY,9366451969
+DR. AMIT RANJAN BARUAH,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,NEUROLOGY,9366451969
+DR. GANESH DAS,Zion Hospital & Research Centre - Health Care,Dimapur,Nagaland,SURGICAL ONCOLOGY,9366451969
+Dr. Monaj Sarda,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Sr. Surgeon,03592 226227
+Dr. Mani Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OBSTETRICS & GYNAECOLOGY,9800069837
+Dr. Nilima Pradhan,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Anesthesia,9800865540
+Dr. Ruth Yonzon,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Pediatrics,9434126850
+Dr. Chungden Lepcha,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Gynecologist,9434117693
+Dr. Mani Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Gynecologist,9800069837
+Dr. Paras Mani Karki,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Gynecologist,9614444707
+Dr. M. P. Sharma,District Hospital Singtam,"Singtam, East",Sikkim,Gynecologist,9593973798
+Dr. Deepika Pradhan,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Gynecologist,9735099624
+Dr. Durga Prasad Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Cardiologist,+91 92393-91085
+Dr. Gyalden Norbu Namchangcorpa,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Cardiologist,+91 92393-91085
+Dr. Palden Wangchuk Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,INTERVENTIONAL CARDIOLOGY,+91 92393-91085
+Dr. Sangay Pelzang Tamang,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Assisted Reproductive Technology,+91 92393-91085
+Dr. Uttam Kharka,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Assisted Reproductive Technology,+91 92393-91085
+Dr. Ambika Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Assisted Reproductive Technology,+91 92393-91085
+Dr. Mani Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Assisted Reproductive Technology,+91 92393-91085
+Dr. Dipika Pradhan,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Assisted Reproductive Technology,+91 92393-91085
+Dr. Kincho L. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,C.T.V.S.,+91 92393-91085
+Dr. Pema C. Lepcha,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,DERMATOLOGY (SKIN),+91 92393-91085
+Dr. Kaveri Thapa,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,DERMATOLOGY (SKIN),+91 92393-91085
+Dr. Kalyan C. Dahal,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,DERMATOLOGY (SKIN),+91 92393-91085
+Dr. Tashi L. Sherpa,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,DERMATOLOGY (SKIN),+91 92393-91085
+Dr. S.C. Lamtha,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GASTROENTEROLOGY,+91 92393-91085
+Dr. Rojesh Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GASTROENTEROLOGY,+91 92393-91085
+Dr. Rojesh Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GASTROENTEROLOGY,+91 92393-91085
+Dr. S.C. Lamtha,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GASTROENTEROLOGY,+91 92393-91085
+Dr. Yogesh Ghimirey,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL MEDICINE,+91 92393-91085
+Dr. Suresh M. Rasaily,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL MEDICINE,+91 92393-91085
+Dr. D.R. Sharma,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL MEDICINE,+91 92393-91085
+Dr. B.N. Sharma,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL MEDICINE,+91 92393-91085
+Dr. Leona S. Lepcha,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL MEDICINE,+91 92393-91085
+Dr. Ugen G. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL MEDICINE,+91 92393-91085
+Dr. Phurlhamu Sherpa,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL MEDICINE,+91 92393-91085
+Dr. Hemta Pradhan,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL MEDICINE,+91 92393-91085
+Dr. Manoj K. Sarda,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL SURGERY,+91 92393-91085
+Dr. Phuchungla Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL SURGERY,+91 92393-91085
+Dr. Deoraj Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL SURGERY,+91 92393-91085
+Dr. Labin Basnett,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL SURGERY,+91 92393-91085
+Dr. Karma D.Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GENERAL SURGERY,+91 92393-91085
+Dr. Judith Namchyo,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,NEPHROLOGY,+91 92393-91085
+Dr. Abhisek Gautam,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,NEPHROLOGY,+91 92393-91085
+Dr. Pranav Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,NEUROSURGERY,+91 92393-91085
+Dr. Roshan Tamang,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,NEUROSURGERY,+91 92393-91085
+Dr. Diki P.Theengh,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,NEUROLOGY,+91 92393-91085
+Dr. Jigdel T. Wangdi,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,NEUROLOGY,+91 92393-91085
+Dr. Romey Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,GYNAE-ONCOLOGY,+91 92393-91085
+Dr. Ashish Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ONCOLOGY,+91 92393-91085
+Dr. Pamu C. Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ONCOLOGY,+91 92393-91085
+Dr. Hari K. Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ONCOLOGY,+91 92393-91085
+Dr. Elisha S. Targain,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ONCOLOGY,+91 92393-91085
+Dr. Deepshika Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ONCOLOGY,+91 92393-91085
+Dr. Diki O. Shenga,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OPHTHALOMOGY (EYE),+91 92393-91085
+Dr. Sonam Gelek Palzang,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OPHTHALOMOGY (EYE),+91 92393-91085
+Dr. Karma Loday Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OPHTHALOMOGY (EYE),+91 92393-91085
+Dr. Twinkey Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OPHTHALOMOGY (EYE),+91 92393-91085
+Dr. Bishnu Shakya,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ORTHOPEDIC,+91 92393-91085
+Dr. Tashi Hoesar,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ORTHOPEDIC,+91 92393-91085
+Dr. Suren Tamang,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ORTHOPEDIC,+91 92393-91085
+Dr. Karma Uden,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ORTHOPEDIC,+91 92393-91085
+Dr. Milan Gautam,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,ORTHOPEDIC,+91 92393-91085
+Dr. C. S. Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (ENT),+91 92393-91085
+Dr. Bina Tamang,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (ENT),+91 92393-91085
+Dr. Chultim Dolma Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (ENT),+91 92393-91085
+Dr. Tsewang D. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (ENT),+91 92393-91085
+Dr. Pema Seden Lepcha,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (ENT),+91 92393-91085
+Dr. Sachika Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (ENT),+91 92393-91085
+Dr. Tenzing J. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (ENT),+91 92393-91085
+Dr. Tsewang Yougyal,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (Head & Neck Surgical Oncology),+91 92393-91085
+Dr. Bhawana Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (Head & Neck Surgical Oncology),+91 92393-91085
+Dr. Chiten T. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (Head & Neck Surgical Oncology),+91 92393-91085
+Dr. Sunita Dhakal,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,OTORHINOLARYNGOLOGY (Head & Neck Surgical Oncology),+91 92393-91085
+Dr. Nilima Pradhan,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PALLIATIVE CARE CLINIC,+91 92393-91085
+Dr. Bijendra Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PALLIATIVE CARE CLINIC,+91 92393-91085
+Dr. Sumita Tamang,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Nedup Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Sisir Sharma,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Jigme T. Shartsho,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. C.K. Nepal,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Amrita Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Tsultem D. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Birendra Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Dichen D. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Chewang D. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC,+91 92393-91085
+Dr. Bikram Kharga,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC SURGERY,+91 92393-91085
+Dr. Manita Tamang,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PEDIATRIC SURGERY,+91 92393-91085
+Dr. Choden Norbu,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PLASTIC & RECONSTRUCTIVE SURGERY & BURNS,+91 92393-91085
+Dr. Bijendra Rai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,Polymyalgia rheumatica (PMR),+91 92393-91085
+Dr. Netra Thapa,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PSYCHIATRY,+91 92393-91085
+Dr. Geeta Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PSYCHIATRY,+91 92393-91085
+Dr. C.L. Pradhan,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PSYCHIATRY,+91 92393-91085
+Dr. Bibhusan Dahal,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PSYCHIATRY,+91 92393-91085
+Dr. Upashna Gurung,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PSYCHIATRY,+91 92393-91085
+Dr. Bishnu Sharma,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PSYCHIATRY,+91 92393-91085
+Dr. Sheetal Chettri,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,PSYCHIATRY,+91 92393-91085
+Dr. Gyanendra Cintury,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,RESPIRATORY MEDICINE,+91 92393-91085
+Dr. Chultin Lepcha,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,RESPIRATORY MEDICINE,+91 92393-91085
+Dr. Namgay D. Bhutia,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,RESPIRATORY MEDICINE,+91 92393-91085
+Dr. Neeraj Bhattarai,Sir Thutob Namgyal Memorial (STNM) Hospital,Gangtok,Sikkim,UROLOGY,+91 92393-91085
+Dr. Prerna Chetri,Central Referral Hospital,Gangtok,Sikkim,Cardiologist,18001202114
+Dr. Atanu Bhanja,Central Referral Hospital,Gangtok,Sikkim,Dental,18001202114
+Dr. Sandeep Kashyap,Central Referral Hospital,Gangtok,Sikkim,Dental,18001202114
+Dr. Adarsh Deep Kharel,Central Referral Hospital,Gangtok,Sikkim,Dental,18001202114
+Dr. Mandira Gurung,Central Referral Hospital,Gangtok,Sikkim,Dental,18001202114
+Dr Archana Sharma,Central Referral Hospital,Gangtok,Sikkim,Dental,18001202114
+Prof (Dr) Mohonish N. Chettri,Central Referral Hospital,Gangtok,Sikkim,ENT,18001202114
+Dr. Santosh Prasad Kesari,Central Referral Hospital,Gangtok,Sikkim,ENT,18001202114
+Dr. Kriti Bhujel,Central Referral Hospital,Gangtok,Sikkim,ENT,18001202114
+Dr Hari Shankar Sharma,Central Referral Hospital,Gangtok,Sikkim,ENT,18001202114
+Dr. Sylveena Moshahary,Central Referral Hospital,Gangtok,Sikkim,ENT,18001202114
+Dr Mona Dhakal,Central Referral Hospital,Gangtok,Sikkim,GENERAL MEDICINE,18001202114
+Dr. Parvati Nandy,Central Referral Hospital,Gangtok,Sikkim,GENERAL MEDICINE,18001202114
+Dr Bidita Khandelwal,Central Referral Hospital,Gangtok,Sikkim,GENERAL MEDICINE,18001202114
+Dr. Anup Pradhan,Central Referral Hospital,Gangtok,Sikkim,OBSTETRICS & GYNAECOLOGY,18001202114
+Dr. Ujjawal Pradhan,Central Referral Hospital,Gangtok,Sikkim,ORTHOPEDIC,18001202114
+Dr. Thejaswi S G,Central Referral Hospital,Gangtok,Sikkim,ORTHOPEDIC,18001202114
+Dr. Jowas Dayal Rai,Central Referral Hospital,Gangtok,Sikkim,ORTHOPEDIC,18001202114
+Dr Sudip Dutta,Central Referral Hospital,Gangtok,Sikkim,Paediatrics,18001202114
+Dr Ashish Pradhan,Central Referral Hospital,Gangtok,Sikkim,Paediatrics,18001202114
+Dr. Sanjiba Dutta,Central Referral Hospital,Gangtok,Sikkim,Psychiatry,18001202114
+Dr. Samrat Singh Bhandari,Central Referral Hospital,Gangtok,Sikkim,Psychiatry,18001202114
+Dr. Harshavardhan Sampath,Central Referral Hospital,Gangtok,Sikkim,Psychiatry,18001202114
+Dr. Geeta Shyamsunder Soohinda,Central Referral Hospital,Gangtok,Sikkim,Psychiatry,18001202114
+"Dr. Bishal Bista, PT",Central Referral Hospital,Gangtok,Sikkim,Fitness Unit(Physiotherapy),9593782814
+"Dr. Prabin Pradhan, PT",Central Referral Hospital,Gangtok,Sikkim,Cardiopulmonary Unit(Physiotherapy),7848985490
+"Dr. Aksheta Thapa, PT",Central Referral Hospital,Gangtok,Sikkim,Pediatric Rehabilitation Unit(Physiotherapy),9083005189
+"Dr. Ajoy Daniel Rai, PT",Central Referral Hospital,Gangtok,Sikkim,Orthopedics Rehabilitation Unit(Physiotherapy),9332324685
+"Dr. Deepanjali Rai, PT",Central Referral Hospital,Gangtok,Sikkim,Neurological Rehabilitation Unit(Physiotherapy),9933820133
+"Dr. Tasneem Rahman Hazarika, PT",Central Referral Hospital,Gangtok,Sikkim,Neurological Rehabilitation Unit(Physiotherapy),9152976486
+"Dr. Frieda Bokali P Engheeepi, PhD",Central Referral Hospital,Gangtok,Sikkim,Research Unit(Physiotherapy),9863784079
+Dr Kumar Nishant,Central Referral Hospital,Gangtok,Sikkim,General & Laparoscopic Surgery,18001202114
+Dr. Varun Singh,Central Referral Hospital,Gangtok,Sikkim,General & Laparoscopic Surgery,18001202114
+Dr Pradip Kumar Singh,Central Referral Hospital,Gangtok,Sikkim,Ophthalmology,18001202114
+Dr Kaushilya Pradhan,Central Referral Hospital,Gangtok,Sikkim,Ophthalmology,18001202114
+DR. BHIM SINGH VERMA,Central Referral Hospital,Gangtok,Sikkim,Radiology,18001202114
+DR. RABINA BHANDARI,Central Referral Hospital,Gangtok,Sikkim,Radiology,18001202114
+DR. EZZAT KHALDA,Central Referral Hospital,Gangtok,Sikkim,Radiology,18001202114
+DR. S HARIPRASAD,Central Referral Hospital,Gangtok,Sikkim,Radiology,18001202114
+DR. PRAVEEN KUMAR C,Central Referral Hospital,Gangtok,Sikkim,Radiology,18001202114
+Dr. Barun Kumar Sharma,Central Referral Hospital,Gangtok,Sikkim,Radiology,18001202114
+Dr. Tsella Lachungpa,Central Referral Hospital,Gangtok,Sikkim,Radiology,18001202114
+Dr. Aishi Chakraborty,Central Referral Hospital,Gangtok,Sikkim,Transfusion Medicine,18001202114
+Dr. Amrita Dhakal Sharma,Central Referral Hospital,Gangtok,Sikkim,Transfusion Medicine,18001202114
+Dr. Mingma Sherpa,Central Referral Hospital,Gangtok,Sikkim,Laboratory Medicine,18001202114
+Dr. Debarghya Sutradhar,Central Referral Hospital,Gangtok,Sikkim,Laboratory Medicine,18001202114
+Dr. Anushya Kalikoty,Central Referral Hospital,Gangtok,Sikkim,Laboratory Medicine,18001202114
+Dr. Binoy Upreti,Central Referral Hospital,Gangtok,Sikkim,Laboratory Medicine,18001202114
+Dr. D.P.Chakraborty,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,9774448140  9862036148
+Dr. Avik Chakraborty,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,9436459818  9436180047
+Dr. Pradip Bhowmik,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,9436120250
+Dr. Arindam Dutta,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,9436126174
+Dr. Kanak Choudhuri,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,9436473355
+Dr. Achintya Pal,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,9436134004
+Dr. Bijoyaditya Dutta( Guruvai Swastayani holder),Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,7005566986
+Dr. Soma Saha,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,9436132335
+Dr. Prasun Bhattacharjee,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GENERAL MEDICINE,9436541920
+Dr. S.B.Chakraborty,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,OBSTETRICS & GYNAECOLOGY,9436131634
+Dr. J.L.Baidya,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,OBSTETRICS & GYNAECOLOGY,9436127555
+Dr. Sumit Sukla Das,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,OBSTETRICS & GYNAECOLOGY,9436125416
+Dr. Suparna Sutradhar,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,OBSTETRICS & GYNAECOLOGY,9436473471
+Dr. Abhijit Shil (INFERTILITY TRAINED),Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,OBSTETRICS & GYNAECOLOGY,8100619949
+Dr. Dipankar Debnath,Indira Gandhi Memorial Hospital,Agartala,Tripura,OBSTETRICS & GYNAECOLOGY,9862185456
+Dr. Sarmistha Chakraborty,"District Hospital , North Tripura",Dharmanagar,Tripura,OBSTETRICS & GYNAECOLOGY,9436768866
+Dr. Diptendu Choudhury,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,GEN. SURGERY,9436461839
+Dr. Nilottpal Chakma,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,GEN. SURGERY,9862193319
+Dr. Sunil Ghosh,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,GEN. SURGERY,9436125595
+Dr. Mani Ranjan Debborma( Laparoscopy),Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,GEN. SURGERY,9436926253
+Dr. Ajay Saha( Guru vai),Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,GEN. SURGERY,9436130035
+Dr. Dhruba Banik( Guru vai),Indira Gandhi Memorial Hospital,Agartala,Tripura,GEN. SURGERY,9436134524
+Dr. Pradip Sarkar,Astha Diagnostic Centre,Agartala,Tripura,GEN. SURGERY,9856030033
+Dr. Tapan Das,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ORTHOPAEDIC,9436124947
+Dr. Bhupesh Shil,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ORTHOPAEDIC,9436452467
+Dr. Dipen Roy,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ORTHOPAEDIC,9436132124
+Dr. Abhishek Majumder (ARTHROSCOPY),Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ORTHOPAEDIC,9436138868
+Dr. Sukomal Sarkar,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ORTHOPAEDIC,9774389335
+Dr. Jiban Nag,Ortho Care Nursing Home,Agartala,Tripura,ORTHOPAEDIC,9436125946
+Dr. Pulak Saha,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ORTHOPAEDIC,9774132148
+Dr. Sachlang Debborma (Spine Surgeon),Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ORTHOPAEDIC,7085769466
+Dr. Anupam Debnath,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ORTHOPAEDIC,9862738910
+Dr.Sujit Chakraborty,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,PAEDIATRICS,9436137979
+Dr. Jayanta Poddar,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,PAEDIATRICS,9436122204
+Dr. Nilratan Majumder,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,PAEDIATRICS,9436131143
+Dr. Sanjib Debborma,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,PAEDIATRICS,9436124052
+Dr. Dipankar Dey (Paediatric oncologist),Regional Cancer Centre,Agartala,Tripura,PAEDIATRICS,9862519772
+Dr. Abhijit Dutta,Gomati District Hospital,Udaipur,Tripura,PAEDIATRICS,9436473531
+Dr. Phanibhusan Sarkar,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,OPTHALMOLOGY,9436135514
+Dr. Batakrishna Pal,Indira Gandhi Memorial Hospital,Agartala,Tripura,OPTHALMOLOGY,9436138064
+Dr. Pranabendhu Barman (Guruvai),Indira Gandhi Memorial Hospital,Agartala,Tripura,OPTHALMOLOGY,9436462506
+DR. Abhijit Roy,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,OPTHALMOLOGY,9436120433
+Dr. Shyamrup Bhattacharjee,Indira Gandhi Memorial Hospital,Agartala,Tripura,OPTHALMOLOGY,8415905266
+Dr. Tarun Guha,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ENT,9436120660
+Dr. Biplab Nath,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ENT,9436131305
+Dr. Sankar Sarkar,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ENT,9436502062
+Dr. Bidhan Das,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,ENT,9436132654
+Dr. Satyakam Chakraborty,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ENT,9436169443
+Dr. Anjan Das,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,CHEST MEDICINE,9436780626
+Dr. Kumarjit Singha  (Broncoscopy Pul  TB),Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,CHEST MEDICINE,9436134678
+Dr. Bijoya Mitra  (Gurubon),Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,CHEST MEDICINE,7005015374
+Dr. Dipanka Dey,Institute of Laparoscopic Surgery,Agartala,Tripura,CHEST MEDICINE,8974050398
+Dr. Ranjit Das,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,DERMATOLOGY,9436475067
+Dr. Kamal Das,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,DERMATOLOGY,8794867363
+Dr. Goutam  Majumder,Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,DERMATOLOGY,9436768470
+Dr. Goutam  Majumder,Agartala Cancer  Hospital,Agartala,Tripura,ONCOLOGY,9436131423
+Dr. Dhritiman Dutta  (GURU VAI),Agartala Cancer  Hospital,Agartala,Tripura,ONCOLOGY,9402155950
+Dr. Partha Sarathi Sutradhar,Agartala Cancer  Hospital,Agartala,Tripura,ONCOLOGY,8414037638/9436463674
+Dr. Aroop Roy Barman,Agartala Cancer  Hospital,Agartala,Tripura,ONCOLOGY,9436463800/9436138323
+Dr. Nilottpal Chakma,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,ONCOLOGY SURGERY,9862193319
+Dr. Santanu Ghosh(GURU VAI),Tripura Medical College & Dr. B.R. Ambedkar Memorial Teaching Hospital,Agartala,Tripura,PSYCHIATRY,7005198868
+Dr. Udayan Majumder (De Addiction Specialist),Psychiatry Hospital and De-Addiction Centre Narsing Garh,Agartala,Tripura,PSYCHIATRY,9862348418
+Dr. Dipayan Sarkar,Psychiatry Hospital  Narsing Garh,Agartala,Tripura,PSYCHIATRY,9436120651
+Dr. Priyojyoti Chakma,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,PSYCHIATRY,9436353699
+Dr. Nilottpal Dey M.Ch,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,PLASTIC SURGERY,8731950724
+Dr. S.B.Nath (GURU VAI),Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,PHYSICAL & MEDICAL REHABILITATION (PMR),9436458555
+Dr. Rajesh Choudhuri MD FIPM,Agartala Government Medical College & Govind Ballabh Pant Hospital,Agartala,Tripura,PAIN MANAGEMENT,9485326288
+Dr. Ritesh Kauntia DM,DIVINE TOUCH MEDI-CLINIC,Agartala,Tripura,NEPHROLOGY,7632987392

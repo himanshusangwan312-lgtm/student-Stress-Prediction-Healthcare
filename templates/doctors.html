@@ -1,0 +1,179 @@
+{% extends "base.html" %}
+{% block content %}
+
+<style>
+.search-card {
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.05);
+    border-radius: 15px;
+}
+
+.doctor-card:hover {
+    transform: translateY(-5px) scale(1.01);
+}
+
+.badge-spec {
+    background: linear-gradient(45deg,#06b6d4,#3b82f6);
+}
+
+.rating-stars {
+    color: gold;
+    font-size: 18px;
+}
+</style>
+
+<h2 class="mb-4 text-center fw-bold">🏥 Smart Doctor & Hospital Finder</h2>
+
+<!-- 🔍 SEARCH BOX -->
+<form method="POST" class="card p-4 shadow-lg mb-4 border-0 search-card">
+
+    <div class="row g-3">
+
+        <div class="col-md-4">
+            <input type="text" name="search"
+                   placeholder="Search Doctor / Hospital / Specialization"
+                   value="{{ search_query }}"
+                   class="form-control form-control-lg">
+        </div>
+
+        <div class="col-md-3">
+            <select name="state" class="form-select form-select-lg"
+                    onchange="loadCities(this.value)">
+                <option value="">Select State</option>
+                {% for s in states %}
+                <option value="{{s}}" {% if s==selected_state %}selected{% endif %}>
+                    {{s}}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="col-md-3">
+            <select name="city" id="city" class="form-select form-select-lg">
+                <option value="">All Cities</option>
+                {% for c in cities %}
+                <option value="{{c}}" {% if c==selected_city %}selected{% endif %}>
+                    {{c}}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-primary w-100 btn-lg">
+                🔍 Search
+            </button>
+        </div>
+
+    </div>
+</form>
+
+<!-- 📊 RESULT COUNT -->
+{% if results %}
+<div class="mb-3 text-center">
+    <span class="badge bg-success fs-6">
+        Showing {{results|length}} Results
+    </span>
+</div>
+{% endif %}
+
+{% if results %}
+
+    {% for r in results %}
+    <div class="card shadow-lg mb-4 border-0 doctor-card">
+        <div class="card-body">
+
+            <!-- NAME -->
+            <h5 class="card-title text-primary fw-bold">
+                👨‍⚕ {{r.doctor}}
+            </h5>
+
+            <!-- SPECIALIZATION -->
+            <span class="badge badge-spec text-white mb-2">
+                {{r.spec}}
+            </span>
+
+            <hr>
+
+            <p class="card-text mb-2">
+                🏥 <b>Hospital:</b> {{r.hospital}} <br>
+                📍 <b>Location:</b> {{r.city}}, {{r.state}} <br>
+                📞 <b>Phone:</b> {{r.phone}} <br>
+
+                <!-- ⭐ Rating -->
+                <b>Rating:</b>
+                <span class="rating-stars">
+                    ⭐ {{r.rating}} / 5
+                </span>
+            </p>
+
+            <!-- ACTION BUTTONS -->
+            <div class="mt-3 d-flex gap-2 flex-wrap">
+
+                <a href="{{r.map}}" target="_blank"
+                   class="btn btn-outline-info btn-sm">
+                   📍 View Map
+                </a>
+
+                <a href="{{ url_for('doctor_detail', doc_id=r.id) }}"
+                   class="btn btn-primary btn-sm">
+                   🔍 View Details
+                </a>
+
+                <!-- CALL BUTTON -->
+                {% if r.phone != "Not available" %}
+                <a href="tel:{{r.phone}}"
+                   class="btn btn-success btn-sm">
+                   📞 Call
+                </a>
+                {% endif %}
+
+            </div>
+
+        </div>
+    </div>
+    {% endfor %}
+
+{% else %}
+    <div class="alert alert-warning text-center">
+        ❌ No results found.
+    </div>
+{% endif %}
+
+<!-- 🔢 PAGINATION -->
+{% if total_pages > 1 %}
+<nav>
+    <ul class="pagination justify-content-center mt-4">
+
+        {% if page > 1 %}
+        <li class="page-item">
+            <a class="page-link"
+               href="{{ url_for('doctors', page=page-1) }}">
+               ⬅ Previous
+            </a>
+        </li>
+        {% endif %}
+
+        {% for p in range(1, total_pages + 1) %}
+        <li class="page-item {% if p == page %}active{% endif %}">
+            <a class="page-link"
+               href="{{ url_for('doctors', page=p) }}">
+               {{p}}
+            </a>
+        </li>
+        {% endfor %}
+
+        {% if page < total_pages %}
+        <li class="page-item">
+            <a class="page-link"
+               href="{{ url_for('doctors', page=page+1) }}">
+               Next ➡
+            </a>
+        </li>
+        {% endif %}
+
+    </ul>
+</nav>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2 class="text-center mb-3">🤖 Student AI Chatbot</h2>
+<p class="text-center text-muted">Ask anything about stress, health, lifestyle & support</p>
+
+<div class="card shadow-lg border-0">
+
+    <!-- 🔥 QUICK SUGGESTIONS (ADDED) -->
+    <div class="p-2 text-center border-bottom">
+        <button class="btn btn-sm btn-outline-primary m-1" onclick="quickMsg('I feel stressed')">Stress</button>
+        <button class="btn btn-sm btn-outline-warning m-1" onclick="quickMsg('I have anxiety')">Anxiety</button>
+        <button class="btn btn-sm btn-outline-success m-1" onclick="quickMsg('Suggest lifestyle tips')">Lifestyle</button>
+        <button class="btn btn-sm btn-outline-danger m-1" onclick="quickMsg('Emergency help')">Emergency</button>
+    </div>
+
+    <!-- CHAT BOX -->
+    <div id="chatbox" style="
+        height: 400px;
+        overflow-y: auto;
+        padding: 15px;
+        background: #f8f9fa;
+    ">
+
+        <div class="text-muted text-center">
+            Start chatting...
+        </div>
+
+    </div>
+
+    <!-- 🔥 TYPING INDICATOR (ADDED) -->
+    <div id="typing" class="text-muted px-3 pb-2" style="display:none;">
+        🤖 Bot is typing...
+    </div>
+
+    <!-- INPUT AREA -->
+    <div class="card-footer d-flex gap-2">
+
+        <input type="text" id="msg"
+               class="form-control"
+               placeholder="Type your message..."
+               onkeypress="if(event.key==='Enter'){send();}">
+
+        <button onclick="send()" class="btn btn-primary">
+            Send
+        </button>
+
+    </div>
+
+</div>
+
+<script>
+
+function appendMessage(message, type){
+
+    let chatbox = document.getElementById("chatbox");
+
+    let div = document.createElement("div");
+
+    div.style.marginBottom = "10px";
+    div.style.padding = "10px";
+    div.style.borderRadius = "10px";
+    div.style.maxWidth = "70%";
+
+    if(type === "user"){
+        div.style.background = "#0d6efd";
+        div.style.color = "white";
+        div.style.marginLeft = "auto";
+    } else {
+        div.style.background = "#e9ecef";
+        div.style.color = "black";
+        div.style.marginRight = "auto";
+    }
+
+    div.innerText = message;
+
+    chatbox.appendChild(div);
+
+    chatbox.scrollTop = chatbox.scrollHeight;
+}
+
+function send(){
+
+    let input = document.getElementById("msg");
+    let message = input.value.trim();
+
+    if(message === "") return;
+
+    appendMessage(message, "user");
+
+    input.value = "";
+
+    document.getElementById("typing").style.display = "block";
+
+    fetch("/get_reply",{
+        method:"POST",
+        headers:{"Content-Type":"application/x-www-form-urlencoded"},
+        body:"msg="+encodeURIComponent(message)
+    })
+    .then(r=>r.text())
+    .then(data=>{
+
+        setTimeout(function(){
+            document.getElementById("typing").style.display = "none";
+            appendMessage(data, "bot");
+        }, 800);
+
+    });
+
+}
+
+<!-- 🔥 QUICK BUTTON FUNCTION -->
+function quickMsg(text){
+    document.getElementById("msg").value = text;
+    send();
+}
+
+</script>
+
+{% endblock %}

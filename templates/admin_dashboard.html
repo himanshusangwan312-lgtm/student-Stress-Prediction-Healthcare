@@ -1,0 +1,196 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="card shadow-lg p-4 border-0">
+
+    <div class="d-flex justify-content-between align-items-center">
+        <h3 class="fw-bold text-primary">📊 Admin Dashboard</h3>
+        <a href="/admin/logout" class="btn btn-danger">
+            Logout
+        </a>
+    </div>
+
+    <hr>
+
+    <!-- 🔥 TOP STATS (UPGRADED UI) -->
+    <div class="row mt-4 text-center g-3">
+
+        <div class="col-md-3">
+            <div class="card p-3 bg-dark text-white">
+                <h6>Total Doctors</h6>
+                <h2 class="text-info">{{total_doctors}}</h2>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card p-3 bg-dark text-white">
+                <h6>Total States</h6>
+                <h2 class="text-success">{{total_states}}</h2>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card p-3 bg-dark text-white">
+                <h6>Total Cities</h6>
+                <h2 class="text-warning">{{total_cities}}</h2>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card p-3 bg-dark text-white">
+                <h6>Total Ratings</h6>
+                <h2 class="text-danger">{{total_ratings}}</h2>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- 🧠 ADVANCED ANALYTICS -->
+    <div class="row mt-4 text-center g-3">
+
+        <div class="col-md-4">
+            <div class="card p-3 bg-dark text-white">
+                <h6>Total Chats</h6>
+                <h3 class="text-info">{{total_chats}}</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card p-3 bg-dark text-white">
+                <h6>Crisis Cases</h6>
+                <h3 class="text-danger">{{crisis_count}}</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card p-3 bg-dark text-white">
+                <h6>Avg Confidence</h6>
+                <h3 class="text-success">{{avg_confidence}}%</h3>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- 📊 CHARTS -->
+    <div class="row mt-5">
+
+        <div class="col-md-6">
+            <div class="card p-3">
+                <h5 class="text-center">System Overview</h5>
+                <canvas id="statsChart"></canvas>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card p-3">
+                <h5 class="text-center">Usage Analytics</h5>
+                <canvas id="usageChart"></canvas>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- ⭐ TOP DOCTORS -->
+    <div class="mt-5">
+        <h4 class="mb-3">🏆 Top Rated Doctors</h4>
+
+        {% if top_doctors %}
+            {% for doc in top_doctors %}
+            <div class="mb-3">
+                <strong>{{doc.name}}</strong>
+                <div class="progress mt-1">
+                    <div class="progress-bar bg-success"
+                         style="width: {{ (doc.avg / 5) * 100 }}%">
+                        ⭐ {{doc.avg}} ({{doc.count}} ratings)
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        {% else %}
+            <div class="alert alert-info">
+                No ratings yet.
+            </div>
+        {% endif %}
+    </div>
+
+    <!-- 📜 CHAT LOGS VIEWER -->
+    <div class="mt-5">
+        <h4>💬 Chat Logs</h4>
+
+        <div style="max-height:300px; overflow-y:auto;">
+            <table class="table table-dark table-striped mt-3">
+                <thead>
+                    <tr>
+                        <th>User Message</th>
+                        <th>Intent</th>
+                        <th>Confidence</th>
+                        <th>Crisis</th>
+                        <th>Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for log in chat_logs %}
+                    <tr>
+                        <td>{{log.user_message}}</td>
+                        <td>{{log.intent}}</td>
+                        <td>{{log.confidence}}%</td>
+                        <td>
+                            {% if log.crisis_flag == 1 %}
+                                <span class="badge bg-danger">YES</span>
+                            {% else %}
+                                <span class="badge bg-success">NO</span>
+                            {% endif %}
+                        </td>
+                        <td>{{log.timestamp}}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- CSV EXPORT -->
+        <a href="/export_csv" class="btn btn-warning mt-3">
+            📥 Export Chat Logs (CSV)
+        </a>
+    </div>
+
+</div>
+
+<!-- CHART JS -->
+<script>
+
+    // SYSTEM OVERVIEW
+    new Chart(document.getElementById('statsChart'), {
+        type: 'bar',
+        data: {
+            labels: ['Doctors', 'States', 'Cities', 'Ratings'],
+            datasets: [{
+                label: 'System Data',
+                data: [
+                    {{total_doctors}},
+                    {{total_states}},
+                    {{total_cities}},
+                    {{total_ratings}}
+                ]
+            }]
+        }
+    });
+
+    // USAGE ANALYTICS
+    new Chart(document.getElementById('usageChart'), {
+        type: 'doughnut',
+        data: {
+            labels: ['Ratings', 'Chats', 'Crisis'],
+            datasets: [{
+                data: [
+                    {{total_ratings}},
+                    {{total_chats}},
+                    {{crisis_count}}
+                ]
+            }]
+        }
+    });
+
+</script>
+
+{% endblock %}

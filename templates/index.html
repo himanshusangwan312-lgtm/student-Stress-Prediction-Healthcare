@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<style>
+.container-box {
+    width: 450px;
+    margin: 50px auto;
+    background: rgba(255,255,255,0.08);
+    backdrop-filter: blur(12px);
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background: rgba(255,255,255,0.1);
+    border: none;
+    color: white;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: #00c6ff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+
+.result {
+    background: rgba(255,255,255,0.1);
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+</style>
+
+<div class="container-box">
+
+    <h2 class="text-center">🎯 Stress Prediction (AI)</h2>
+
+    <form action="/predict" method="POST">
+
+        Age:
+        <input type="number" name="age" required>
+
+        Sleep Duration (hours):
+        <input type="number" step="0.1" name="sleep" required>
+
+        Screen Time (hours):
+        <input type="number" step="0.1" name="screen" required>
+
+        Physical Activity:
+        <select name="activity">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+
+        Social Interaction:
+        <select name="social">
+            <option value="0">Low</option>
+            <option value="1">Medium</option>
+            <option value="2">High</option>
+        </select>
+
+        Work / Study Hours:
+        <input type="number" step="0.1" name="work" required>
+
+        <button type="submit">Predict</button>
+
+    </form>
+
+    {% if prediction %}
+    <div class="result">
+        <h3>Result: {{ prediction }}</h3>
+
+        <p>Risk: {{risk}}%</p>
+
+        <p>🥗 {{nutrition}}</p>
+        <p>🧘 {{lifestyle}}</p>
+    </div>
+    {% endif %}
+
+</div>
+
+{% endblock %}
